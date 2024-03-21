@@ -3,7 +3,7 @@
 
 ## 과제
 | 순서 | 과제 명 | 작성 일자 | 블로그 링크 | 작성 언어  | 
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | 1 | [프로필 페이지 만들기]() |  |[Link](https://slowprogramer.tistory.com/)| HTML |
 | 2 | [설문조사 양식 만들기]() |  |[Link](https://slowprogramer.tistory.com/)| HTML |
 | 3 | [프로필 페이지에 스타일시트 더하기]() |  |[Link](https://slowprogramer.tistory.com/)| HTML + CSS|
