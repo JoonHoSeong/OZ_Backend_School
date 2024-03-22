@@ -14,7 +14,7 @@
 ### HTML+CSS
 | 순서 | 실습 명 | 작성 일자 | 작성 언어  | 
 | --- | --- | --- | --- |
-| 1 | [04-HTML기본문법](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/HTML_Trainnig) | '24.03.21 | HTML |
+| 1 | [04-HTML기본문법](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/HTML_Trainnig/04-HTML기본문법.html) | '24.03.21 | HTML |
 | 2 | [05-HTML문서기본구조](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/HTML_Trainnig) | '24.03.21 | HTML |
 | 3 | [06-텍스트표시하기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/HTML_Trainnig) | '24.03.21 | HTML |
 | 4 | [07-요소의구분과인라인텍스트요소](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/HTML_Trainnig) | '24.03.21 | HTML |
@@ -30,3 +30,14 @@
 | 14 | [19-CSS문서사용하기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning) | '24.03.21 | HTML+CSS |
 | 15 | [20-선택자기본편](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning) | '24.03.21 | HTML+CSS |
 | 16 | [21-박스모델이란](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning) | '24.03.21 | HTML+CSS |
+| 17 | [22-테두리스타일](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning) | '24.03.22 | HTML+CSS |
+| 18 | [23-여백만들기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning) | '24.03.22 | HTML+CSS |
+| 19 | [24-배경다루기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning) | '24.03.22 | HTML+CSS |
+| 20 | [25-색상지정하기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning) | '24.03.22 | HTML+CSS |
+| 21 | [27-요소의유형](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning) | '24.03.22 | HTML+CSS |
+| 22 | [26-텍스트꾸미기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning) | '24.03.22 | HTML+CSS |
+| 23 | [26-텍스트꾸미기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning) | '24.03.22 | HTML+CSS |
+| 24 | [26-텍스트꾸미기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning) | '24.03.22 | HTML+CSS |
+| 25 | [26-텍스트꾸미기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning) | '24.03.22 | HTML+CSS |
+| 26 | [26-텍스트꾸미기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning) | '24.03.22 | HTML+CSS |
+| 27 | [26-텍스트꾸미기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning) | '24.03.22 | HTML+CSS |
