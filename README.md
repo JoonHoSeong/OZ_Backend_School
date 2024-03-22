@@ -3,7 +3,7 @@
 
 ## 과제
 ### [HTML+CSS](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project)
-#### 챌린지
+### 챌린지
 | 순서 | 과제 명 | 작성 일자 | 블로그 링크 | 작성 언어  | 
 | --- | --- | --- | --- | --- |
 | 1 | [프로필 페이지 만들기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project/profile_page) | 24.03.23. |[Link](https://slowprogramer.tistory.com/)| HTML |
