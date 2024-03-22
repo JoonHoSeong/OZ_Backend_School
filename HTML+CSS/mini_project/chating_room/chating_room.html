@@ -3,9 +3,38 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>채팅방 만들기</title>
+    <link href="src/chating_room.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poor+Story&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Gamja+Flower&display=swap" rel="stylesheet">
 </head>
 <body>
-    
+    <div class="container">
+        <main class="chat_screen">
+            <section class="chat-screen_bar">
+                <div class="user">
+                    <div class="user_col">
+                        <div class="user_pic">
+                            <img class="pic_img" src="src/image/92739c33-d5d3-4bd1-a9fa-bb97fe842e09.jpg">
+                        </div>
+                    </div>
+                    <div class="user_col">
+                        <p class="user_nick">친구 수</p>
+                        <p class="'user_count">&nbsp&nbsp317</p>
+                    </div>
+                </div>
+            </section>
+        </main>
+        <form class="chat-form">
+            <section class="chat-form-filed">
+                <textarea class="chat-form-message"></textarea>
+                <input type="submit" value="전송" class="chat-form-button">
+            </section>
+        </form>
+    </div>
 </body>
 </html>

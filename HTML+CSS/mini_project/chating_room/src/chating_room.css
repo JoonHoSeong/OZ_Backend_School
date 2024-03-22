@@ -1,0 +1,104 @@
+* {
+    box-sizing: border-box;
+    font-family: "Poor Story", "Gamja Flower", "sans-serif";
+}
+
+html{
+    height: 100%;
+}
+
+body{
+    height: 100%;
+    margin: 0;
+}
+
+.container{
+    height: 100%;
+    background-color: skyblue;
+}
+/*채팅 스크린 크기 조절*/
+.chat_screen{
+    height: calc(100% - 200px);
+}
+
+/* 유저정보 표현 */
+.user{
+    background-color: #1e2b67;
+    padding: 16px;
+    height: 80px;
+}
+
+.user_pic{
+    width: 54px;
+    height: 54px;
+    margin-right: 10px;
+    background-color: lightblue;
+    border: 0px;
+    border-radius: 10px;
+}
+
+.pic_img{
+    width : 50px;
+    height: 50px;
+    border: 0px;
+    border-radius: 10px;
+    position:relative;
+    left: 2px;
+    top : 2px;
+}
+
+.user_col{
+    float: left;
+}
+.user_col > p{
+    line-height: 10px;
+    color : white;
+    
+}
+
+
+.user_nick, .user_count {
+    margin :5px
+}
+
+.user_count{
+    font-size: 12px;
+    color : lightgoldenrodyellow
+}
+
+.chat-form{
+    height: 200px;
+    background-color: whitesmoke;
+}
+
+.chat-form-filed{
+    height: 200px;
+}
+
+.chat-form-message{
+    width :calc(100% - 200px);
+    height: 200px;
+    border : none;
+    font-size: 24;
+    padding: 10px;
+    float:left
+
+}
+
+.chat-form-button{
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    background-color: aqua;
+    font-weight: 800;
+    font-size:40px;
+    float:right
+}
+
+.chat-form-button:active{
+    background-color: aquamarine;
+}
+
+.chat-form-message:focus{
+    outline: none;
+}
