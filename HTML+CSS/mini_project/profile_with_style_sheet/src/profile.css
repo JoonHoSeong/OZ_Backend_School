@@ -1,6 +1,9 @@
+
 * {
     text-align: center;
     background-color: beige;
+    font-family: "Gamja Flower", "sans-serif";
+    
 }
 
 li {
@@ -33,7 +36,11 @@ legend{
 }
 
 fieldset{
-background-color: aliceblue;
+    background-color: aliceblue;
+    width: 500px;
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #profile_detail{
