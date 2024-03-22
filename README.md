@@ -6,10 +6,10 @@
 #### 챌린지
 | 순서 | 과제 명 | 작성 일자 | 블로그 링크 | 작성 언어  | 
 | --- | --- | --- | --- | --- |
-| 1 | [프로필 페이지 만들기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project/profile_page) |  |[Link](https://slowprogramer.tistory.com/)| HTML |
-| 2 | [설문조사 양식 만들기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project/survey_page) |  |[Link](https://slowprogramer.tistory.com/)| HTML |
+| 1 | [프로필 페이지 만들기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project/profile_page) | 24.03.23. |[Link](https://slowprogramer.tistory.com/)| HTML |
+| 2 | [설문조사 양식 만들기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project/survey_page) | 24.03.23. |[Link](https://slowprogramer.tistory.com/)| HTML |
 | 3 | [프로필 페이지에 스타일시트 더하기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project/profile_with_style_sheet) |  |[Link](https://slowprogramer.tistory.com/)| HTML + CSS|
-| 4 | [나만의 채팅방 만들기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project/chating_room) |  |[Link](https://slowprogramer.tistory.com/)| HTML + CSS|
+| 4 | [나만의 채팅방 만들기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project/chating_room) | 24.03.23. |[Link](https://slowprogramer.tistory.com/)| HTML + CSS|
 ### 추가 과제
 | 순서 | 과제 명 | 작성 일자 | 블로그 링크 | 작성 언어  | 
 | --- | --- | --- | --- | --- |
