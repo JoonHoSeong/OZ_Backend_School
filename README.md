@@ -3,12 +3,18 @@
 
 ## 과제
 ### [HTML+CSS](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project)
+#### 챌린지
 | 순서 | 과제 명 | 작성 일자 | 블로그 링크 | 작성 언어  | 
 | --- | --- | --- | --- | --- |
 | 1 | [프로필 페이지 만들기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project/profile_page) |  |[Link](https://slowprogramer.tistory.com/)| HTML |
 | 2 | [설문조사 양식 만들기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project/survey_page) |  |[Link](https://slowprogramer.tistory.com/)| HTML |
 | 3 | [프로필 페이지에 스타일시트 더하기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project/profile_with_style_sheet) |  |[Link](https://slowprogramer.tistory.com/)| HTML + CSS|
 | 4 | [나만의 채팅방 만들기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project/chating_room) |  |[Link](https://slowprogramer.tistory.com/)| HTML + CSS|
+### 추가 과제
+| 순서 | 과제 명 | 작성 일자 | 블로그 링크 | 작성 언어  | 
+| --- | --- | --- | --- | --- |
+| 1 | [나만의 채팅방에 말풍선 추가하기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project/chating_room_with_bubble) |  |[Link](https://slowprogramer.tistory.com/)| HTML + CSS|
+| 2 | [나만의 채팅방에 말풍선 추가하기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project/chating_room_with_bubble) |  |[Link](https://slowprogramer.tistory.com/)| HTML + CSS|
 
 ## 강의 실습
 ### [HTML+CSS](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning)
@@ -36,8 +42,20 @@
 | 20 | [25-색상지정하기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/25-색상지정하기.html) | '24.03.22 | HTML+CSS |
 | 21 | [26-텍스트꾸미기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/26-텍스트꾸미기.html) | '24.03.22 | HTML+CSS |
 | 22 | [27-요소의유형](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/27-요소의유형.html) | '24.03.22 | HTML+CSS |
-| 23 | [26-텍스트꾸미기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/.html) | '24.03.22 | HTML+CSS |
-| 24 | [26-텍스트꾸미기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/.html) | '24.03.22 | HTML+CSS |
-| 25 | [26-텍스트꾸미기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/.html) | '24.03.22 | HTML+CSS |
-| 26 | [26-텍스트꾸미기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/.html) | '24.03.22 | HTML+CSS |
-| 27 | [26-텍스트꾸미기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/.html) | '24.03.22 | HTML+CSS |
+| 23 | [28-문서의흐름](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/28-문서의흐름.html) | '24.03.22 | HTML+CSS |
+| 24 | [29-위치지정하기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/29-위치지정하기.html) | '24.03.22 | HTML+CSS |
+| 25 | [30-켭치거나넘치는요소다루기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/30-켭치거나넘치는요소다루기.html) | '24.03.22 | HTML+CSS |
+| 26 | [31-선택자더알아보기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/31-선택자더알아보기.html) | '24.03.22 | HTML+CSS |
+| 27 | [32-의사요소와의사클래스](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/32-의사요소와의사클래스.html) | '24.03.22 | HTML+CSS |
+| 28 | [28-문서의흐름](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/28-문서의흐름.html) | '24.03.22 | HTML+CSS |
+| 29 | [29-위치지정하기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/29-위치지정하기.html) | '24.03.22 | HTML+CSS |
+| 30 | [30-겹치거나넘치는요소다루기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/30-겹치거나넘치는요소다루기.html) | '24.03.22 | HTML+CSS |
+| 31 | [31-선택자더알아보기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/31-선택자더알아보기.html) | '24.03.22 | HTML+CSS |
+| 32 | [32-의사요소와의사클래스](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/32-의사요소와의사클래스.html) | '24.03.22 | HTML+CSS |
+| 33 | [33-변환과전환](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/33-변환과전환.html) | '24.03.22 | HTML+CSS |
+| 34 | [34-애니메이션효과](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/34-애니메이션효과.html) | '24.03.22 | HTML+CSS |
+| 35 | [35-상속과공용키워드](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/35-상속과공용키워드.html) | '24.03.22 | HTML+CSS |
+| 36 | [36-반응형웹과뷰포트단뒤](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/36-반응형웹과뷰포트단뒤.html) | '24.03.22 | HTML+CSS |
+| 37 | [37-미디어쿼리](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/37-미디어쿼리.html) | '24.03.22 | HTML+CSS |
+| 38 | [38-모듈과디자인](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/38-모듈과디자인.html) | '24.03.22 | HTML+CSS |
+| 39 | [39-플렉스박스](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/39-플렉스박스.html) | '24.03.22 | HTML+CSS |
