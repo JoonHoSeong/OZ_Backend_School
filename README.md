@@ -14,7 +14,11 @@
 | 순서 | 과제 명 | 작성 일자 | 블로그 링크 | 작성 언어  | 
 | --- | --- | --- | --- | --- |
 | 1 | [나만의 채팅방에 말풍선 추가하기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project/chating_room_with_bubble) |  |[Link](https://slowprogramer.tistory.com/)| HTML + CSS|
-| 2 | [나만의 채팅방에 말풍선 추가하기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project/chating_room_with_bubble) |  |[Link](https://slowprogramer.tistory.com/)| HTML + CSS|
+
+### 클론코딩
+| 순서 | 과제 명 | 작성 일자 | 블로그 링크 | 작성 언어  | 
+| --- | --- | --- | --- | --- |
+| 1 | [당근마켓클론코딩](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project/carrot_store_clone_coding) |  |[Link](https://slowprogramer.tistory.com/)| HTML + CSS|
 
 ## 강의 실습
 ### [HTML+CSS](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning)
