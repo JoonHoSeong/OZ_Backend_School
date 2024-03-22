@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>주거조사</title>
+</head>
+<body>
+    <h1>2024 주거조사</h1>
+    <p>모든 항목을 빠짐 없이 입력해주세요<p>
+    <hr>
+    <fieldset>
+        <legend>
+            개인정보
+        </legend>
+        <label>이름</label>
+        <input type="text" placeholder="이름을 입력하세요" required>
+        <br>
+        <label>이메일</label>
+        <input type="text" placeholder="아이디를 입력하세요" required>
+        <span>@</span>
+        <select>
+            <option value="gmail">gamil.com</option>
+            <option value="naver">naver.com</option>
+            <option value="kakao">kakao.com</option>
+        </select>
+        <br>
+        <p>생년월일</p>
+        <input type="number" id="year" required >
+        <label for="year">년</label>
+        <input type="number" id="" required >
+        <label for="month">월</label>
+        <input type="number" id="day" required >
+        <label for="day">일</label>
+    </fieldset>
+    <fieldset>
+        <legend>
+        주거 위치
+        </legend>
+        <select>
+            <option value="서울"> 서울</option>
+            <option value="서울"> 경기도</option>
+            <option value="서울"> 강원도</option>
+            <option value="서울"> 충청도</option>
+            <option value="서울"> 전라도</option>
+            <option value="서울"> 경상도</option>
+            <option value="서울"> 인천</option>
+            <option value="서울"> 대전</option>
+            <option value="서울"> 광주</option>
+            <option value="서울"> 대구</option>
+            <option value="서울"> 부산</option>
+            <option value="서울"> 울산</option>
+            <option value="서울"> 세종</option>
+        </select>
+        <!-- <input type="radio" id="seoul">
+        <label for="seoul">서울</label>
+
+        <input type="radio" id="gyeonggi">
+        <label for="gyeonggi">경기도</label>
+
+        <input type="radio" id="incheon">
+        <label for="incheon">인천</label>
+
+        <input type="radio" id="gangwan">
+        <label for="gangwan">강원도</label>
+
+        <input type="radio" id="chungcheong">
+        <label for="chungcheong">충청도</label>
+
+        <input type="radio" id="daejeon">
+        <label for="daejeon">대전</label>
+        
+        <input type="radio" id="jeolla">
+        <label for="jeolla">전라도</label>
+
+        <input type="radio" id="gwangju">
+        <label for="gwangju">광주</label>
+
+        <input type="radio" id="gyeongsang">
+        <label for="gyeongsang">경상도</label>
+
+        <input type="radio" id="busan">
+        <label for="busan">부산</label>
+
+        <input type="radio" id="ulsan">
+        <label for="ulsan">울산</label>
+
+        <input type="radio" id="deagu">
+        <label for="deagu">대구</label> -->
+        <input type="text" id="address" placeholder="주소를 입력하세요" required>
+        
+
+    </fieldset>
+    <fieldset>
+        <legend>
+            주거 정보
+        </legend>
+        <p>주거 형태</p>
+        <input type="radio" id="solo">
+        <label for="solo">단독주택</label>
+
+        <input type="radio" id="multi-family">
+        <label for="multi-family">단독주택</label>
+
+        <input type="radio" id="multi-house">
+        <label for="multi-house">다세대주택</label>
+
+        <input type="radio" id="villa">
+        <label for="villa">연립주택</label>
+
+        <input type="radio" id="apartment">
+        <label for="apartment">아파트</label>
+
+        <input type="radio" id="officetel">
+        <label for="officetel">오피스텔</label>
+
+        <p>가구 형태</p>
+        <input type="radio" id="one">
+        <label for="one">1인가구</label>
+
+        <input type="radio" id="two">
+        <label for="two">2인가구</label>
+
+        <input type="radio" id="three">
+        <label for="four">3인가구</label>
+
+        <input type="radio" id="four">
+        <label for="four">4인가구</label>
+
+        <input type="radio" id="five">
+        <label for="five">5인가구</label>
+
+        <input type="radio" id="six_over">
+        <label for="six_over">6인 이상 가구</label>
+
+    </fieldset>
+    <fieldset>
+        <legend>
+            기타 제출 사항
+        </legend>
+        <span>기타 제출 사항이 있을시 입력후 필요 서류를 첨부해 주세요!</span>
+        <br>
+        <textarea placeholder="기타 제출 사항을 입력을 입력하세요"></textarea>
+        <br>
+        <input type="file">
+    </fieldset>
+    <hr>
+    <input type="submit">
+    <p>설문 조사에 참여해 주셔서 감사합니다.</p>
+    <sapn>&copy 성준호</sapn>
+</body>
+</html>
