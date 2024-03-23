@@ -3,12 +3,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>의사요소와 의사클래스</title>
+    <title>미디어쿼리</title>
     <style>
-       
+       div{
+        width: 150px;
+        height: 150px;
+        background-color: teal;
+       }
+
+       @media screen and (min-width:800px){
+        div{
+            background-color: orange;
+        }
+       }
+
+       @media screen and (min-width:1000px){
+        div{
+            background-color: red;
+        }
+       }
     </style>
 </head>
 <body>
-
+    <div class="box"></div>
 </body>
 </html>

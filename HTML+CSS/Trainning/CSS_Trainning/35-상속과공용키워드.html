@@ -3,12 +3,38 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>의사요소와 의사클래스</title>
+    <title>상속과 공용키워드</title>
     <style>
-       
+       .list{
+        /* 상속되는 예 */
+        color: brown;
+        font-style:  italic;
+        font-weight: 900;
+        /* 상속 안되는 예 */
+        border: 3px dashed green;
+        padding :0;
+       }
+
+       ul{
+        border : inherit;
+       }
+
+       li:nth-child(3){
+        color: unset;
+        font-style:  initial;
+        font-weight: initial;
+       }
     </style>
 </head>
 <body>
-
+    <h2>마라톤 대회 참가 기록</h2>
+    <div class="list">
+        <ul>
+            <li>새해맞이 대전 마라톤 대회</li>
+            <li>서울 국제 마라톤 대회</li>
+            <li>대전 대청호 벚꽃길 마라톤 대회</li>
+            <li>대전 3대하천 마라톤 대회</li>
+        </ul>
+    </div>
 </body>
 </html>
