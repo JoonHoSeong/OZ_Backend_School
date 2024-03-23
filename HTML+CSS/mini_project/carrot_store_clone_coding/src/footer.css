@@ -1,0 +1,88 @@
+.footer{
+    color : grey;
+    border-top: 1px solid lightgrey;
+    padding : 0 1rem;
+}
+
+.footer__container{
+    max-width: 48rem;
+    margin: auto;
+}
+.footer__menu{
+    padding: 3rem 0;
+}
+
+.footer__apps{
+    float:right;
+}
+
+.footer__appdown{
+    font-size: 0.875rem;
+    font-weight: 700;
+    line-height: 1.4;
+}
+
+.footer__appbtn{
+    width: 18.75rem;
+    justify-content: space-between;
+}
+
+.footer__appbtn button{
+    width: 60%;
+    height: 2.75rem;
+    padding: 0;
+    border: none;
+    border-radius: 8px;
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+.footer__nav ul{
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    width: 33%;
+    margin: 0;
+    padding: 0;
+    line-height: 1.4;
+    font-size: 0.875rem;
+}
+
+.footer__nav ul:nth-child(3){
+    margin-right: 15%;
+}
+
+.footer__nav ul li{
+    margin-bottom: 1rem;
+}
+
+@media screen and (max-width:768px) {
+    .footer__apps{
+        float: none;
+        display: flex;
+        margin-bottom: 1.25rem;
+    }
+    .footer__appbtn{
+        display: none;
+    }
+}
+
+
+.footer__info{
+    padding: 1.5rem 0 6.25rem;
+    border-top: 1px solid #c3c4c7;
+    color: #868B94;
+    line-height: 1.5;
+    font-size: .813rem;
+}
+
+@media screen and (max-width:768px) {
+    .footer__apps{
+        float: none;
+        display: flex;
+        margin-bottom: 1.25rem;
+    }
+    .footer__appbtn{
+        display: none;
+    }
+}
