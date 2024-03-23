@@ -13,12 +13,12 @@
 ### 추가 과제
 | 순서 | 과제 명 | 작성 일자 | 작성 언어  | 
 | --- | --- | --- | --- |
-| 1 | [나만의 채팅방에 말풍선 추가하기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project/chating_room_with_bubble) |  HTML + CSS|
+| 1 | [나만의 채팅방에 말풍선 추가하기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project/chating_room_with_bubble) | 24.03.23. | HTML + CSS|
 
 ### 클론코딩
 | 순서 | 과제 명 | 작성 일자 | 작성 언어  | 
 | --- | --- | --- | --- |
-| 1 | [당근마켓클론코딩](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project/carrot_store_clone_coding) |  HTML + CSS|
+| 1 | [당근마켓클론코딩](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project/carrot_store_clone_coding) | 24.03.23. | HTML + CSS|
 
 ## 강의 실습
 ### [HTML+CSS](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning)
@@ -57,8 +57,8 @@
 | 31 | [31-선택자더알아보기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/31-선택자더알아보기.html) | '24.03.22 | HTML+CSS |
 | 32 | [32-의사요소와의사클래스](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/32-의사요소와의사클래스.html) | '24.03.22 | HTML+CSS |
 | 33 | [33-변환과전환](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/33-변환과전환.html) | '24.03.22 | HTML+CSS |
-| 34 | [34-애니메이션효과](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/34-애니메이션효과.html) | '24.03.22 | HTML+CSS |
-| 35 | [35-상속과공용키워드](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/35-상속과공용키워드.html) | '24.03.22 | HTML+CSS |
-| 36 | [36-반응형웹과뷰포트단위](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/36-반응형웹과뷰포트단위.html) | '24.03.22 | HTML+CSS |
-| 37 | [37-미디어쿼리](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/37-미디어쿼리.html) | '24.03.22 | HTML+CSS |
-| 38 | [38-플렉스박스](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/38-플렉스박스.html) | '24.03.22 | HTML+CSS |
+| 34 | [34-애니메이션효과](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/34-애니메이션효과.html) | '24.03.23 | HTML+CSS |
+| 35 | [35-상속과공용키워드](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/35-상속과공용키워드.html) | '24.03.23 | HTML+CSS |
+| 36 | [36-반응형웹과뷰포트단위](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/36-반응형웹과뷰포트단위.html) | '24.03.23 | HTML+CSS |
+| 37 | [37-미디어쿼리](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/37-미디어쿼리.html) | '24.03.23 | HTML+CSS |
+| 38 | [38-플렉스박스](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/38-플렉스박스.html) | '24.03.23 | HTML+CSS |
