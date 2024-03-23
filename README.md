@@ -2,6 +2,12 @@
 [오즈코딩스쿨](https://ozcodingschool.com/)의 'IT 스타트업 실무형 백엔드 개발 부트캠프'에서 작성한 실습 내용을 저장 공유 합니다!
 
 ## 과제
+### [JavaScript](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/mini_project)
+### 챌린지
+| 순서 | 과제 명 | 작성 일자  | 작성 언어  | 
+| --- | --- | --- | --- |
+| 1 | [프로필 페이지 만들기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project/profile_page) | 24.03.23. |  HTML |
+
 ### [HTML+CSS](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project)
 ### 챌린지
 | 순서 | 과제 명 | 작성 일자  | 작성 언어  | 
