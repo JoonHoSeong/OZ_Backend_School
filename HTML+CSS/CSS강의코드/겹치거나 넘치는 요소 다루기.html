@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<!-- saved from url=(0694)https://file.notion.so/f/f/00feaf78-d356-41ee-90f9-616e7f73fd77/840e6f6e-e2d8-457a-b4fb-1bddf8c0dc95/14-%E1%84%80%E1%85%A7%E1%86%B8%E1%84%8E%E1%85%B5%E1%84%80%E1%85%A5%E1%84%82%E1%85%A1%E1%84%82%E1%85%A5%E1%86%B7%E1%84%8E%E1%85%B5%E1%84%82%E1%85%B3%E1%86%AB%E1%84%8B%E1%85%AD%E1%84%89%E1%85%A9.html?id=1eec7138-2f1b-4f7c-9339-3ae848f3b19e&table=block&spaceId=00feaf78-d356-41ee-90f9-616e7f73fd77&expirationTimestamp=1711324800000&signature=AIts0Sw6IbD3Oor_OeTkuFGmTNSAWL3VcUnFVG5K_Z0&downloadName=14-%E1%84%80%E1%85%A7%E1%86%B8%E1%84%8E%E1%85%B5%E1%84%80%E1%85%A5%E1%84%82%E1%85%A1%E1%84%82%E1%85%A5%E1%86%B7%E1%84%8E%E1%85%B5%E1%84%82%E1%85%B3%E1%86%AB%E1%84%8B%E1%85%AD%E1%84%89%E1%85%A9.html -->
+<html lang="ko"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>겹치거나 넘치는 요소 다루기</title>
+  <style>
+    div{
+      width: 100px;
+      height: 100px;
+      position: relative;
+    }
+    .div1{ 
+      background-color: orange; 
+      z-index: 99; 
+      overflow: auto;
+    }
+    .div2{ background-color: red; bottom: 50px; z-index: 33; }
+    .div3{ background-color: purple; bottom: 100px; z-index: 21; }
+    .div4{ background-color: green; bottom: 150px; z-index: 10; }
+  </style>
+</head>
+<body>
+  <div class="div1">
+    orangeorangeorangeorange
+    orangeorangeorangeorange
+    orangeorangeorangeorange
+    orangeorangeorangeorange
+    orangeorangeorangeorange
+    orangeorangeorangeorange
+  </div>
+  <div class="div2">2</div>
+  <div class="div3">3</div>
+  <div class="div4">4</div>
+
+</body></html>

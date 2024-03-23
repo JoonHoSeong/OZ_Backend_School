@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<!-- saved from url=(0532)https://file.notion.so/f/f/00feaf78-d356-41ee-90f9-616e7f73fd77/1e870d3e-f720-4ad2-88b3-2194addfc0ac/15-%E1%84%8E%E1%85%AE%E1%84%80%E1%85%A1%E1%84%89%E1%85%A5%E1%86%AB%E1%84%90%E1%85%A2%E1%86%A8%E1%84%8C%E1%85%A1.html?id=5dec1baf-fa47-409b-a812-4eb39f105cf8&table=block&spaceId=00feaf78-d356-41ee-90f9-616e7f73fd77&expirationTimestamp=1711324800000&signature=9vkhM6nhuNMZ3wGwLyc1W0lwZL-FM2C3RmWv9WtkZwk&downloadName=15-%E1%84%8E%E1%85%AE%E1%84%80%E1%85%A1%E1%84%89%E1%85%A5%E1%86%AB%E1%84%90%E1%85%A2%E1%86%A8%E1%84%8C%E1%85%A1.html -->
+<html lang="ko"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>선택자 더 알아보기</title>
+  <style>
+    /*
+    기호와 함께 사용하는 속성 선택자
+    * : 값의 포함 여부
+    ^ : 값의 시작 여부
+    $ : 값의 끝 여부
+    */
+    [width $= "0"]{
+      border: 5px dashed red;
+    }
+
+    p > em{
+      color: blue;
+    }
+
+    /* 
+    형제 선택자는 뒤이어 등장하는 형제들을 대상으로 한다!
+    */
+    #sam ~ img{
+      display: none;
+    }
+
+
+
+  </style>
+</head>
+<body>
+  <img src="./선택자 더 알아보기_files/daejeon.jpg" width="120" alt="대전">
+  <img src="./선택자 더 알아보기_files/daejeon.jpg" width="120">
+  <img src="./선택자 더 알아보기_files/daejeon.jpg" width="120" id="sam">
+  <p>대전은 유노코딩의 고향이자, 현 거주지이기도 합니다.</p>
+  <p>대전광역시 유성구에는 대전의 랜드마크 한빛탑이 있습니다.</p>
+  <p>한빛탑 맞은 편에는 <em>엑스포다리</em>가 놓여 있습니다.</p>
+  <p>엑스포다리 아래에는 대전 3대하천 중 하나인 갑천이 흐릅니다.</p>
+
+</body></html>

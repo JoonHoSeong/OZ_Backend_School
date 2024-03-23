@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<!-- saved from url=(0660)https://file.notion.so/f/f/00feaf78-d356-41ee-90f9-616e7f73fd77/e5d7bdd0-f3b1-4bbf-9baa-815760bd3eb8/16-%E1%84%8B%E1%85%B4%E1%84%89%E1%85%A1%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%84%89%E1%85%B3-%E1%84%8B%E1%85%B4%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%84%89%E1%85%A9.html?id=6bfd147f-a627-41c6-b371-fb14a1511b7f&table=block&spaceId=00feaf78-d356-41ee-90f9-616e7f73fd77&expirationTimestamp=1711324800000&signature=amgT9-_rHnwL2TMlSRPOkSyuBq_QqBFxrZaYK3sSiDc&downloadName=16-%E1%84%8B%E1%85%B4%E1%84%89%E1%85%A1%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%84%89%E1%85%B3-%E1%84%8B%E1%85%B4%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%84%89%E1%85%A9.html -->
+<html lang="ko"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>의사 클래스 &amp; 의사 요소</title>
+  <style>
+    .menu{
+      padding: 10px;
+      border-bottom: 1px solid black;
+    }
+    .menu > li{
+      display: inline-block;
+      text-align: center;
+    }
+    li > a{
+      display: inline-block;
+      width: 80px;
+      padding: 10px;
+      text-decoration: none;
+    }
+
+    a:hover{
+      color: white;
+      background-color: gray;
+    }
+    a:active{
+      color: white;
+      background-color: black;
+    }
+    li:nth-child(n){
+      font-size: 20px;
+    }
+
+    a::before{
+      content: "보기";
+      color: yellow;
+    }
+
+  </style>
+</head>
+<body>
+  <ul class="menu">
+    <li><a href="https://file.notion.so/f/f/00feaf78-d356-41ee-90f9-616e7f73fd77/e5d7bdd0-f3b1-4bbf-9baa-815760bd3eb8/16-%E1%84%8B%E1%85%B4%E1%84%89%E1%85%A1%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%84%89%E1%85%B3-%E1%84%8B%E1%85%B4%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%84%89%E1%85%A9.html?id=6bfd147f-a627-41c6-b371-fb14a1511b7f&amp;table=block&amp;spaceId=00feaf78-d356-41ee-90f9-616e7f73fd77&amp;expirationTimestamp=1711324800000&amp;signature=amgT9-_rHnwL2TMlSRPOkSyuBq_QqBFxrZaYK3sSiDc&amp;downloadName=16-%E1%84%8B%E1%85%B4%E1%84%89%E1%85%A1%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%84%89%E1%85%B3-%E1%84%8B%E1%85%B4%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%84%89%E1%85%A9.html#">사전</a></li>
+    <li><a href="https://file.notion.so/f/f/00feaf78-d356-41ee-90f9-616e7f73fd77/e5d7bdd0-f3b1-4bbf-9baa-815760bd3eb8/16-%E1%84%8B%E1%85%B4%E1%84%89%E1%85%A1%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%84%89%E1%85%B3-%E1%84%8B%E1%85%B4%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%84%89%E1%85%A9.html?id=6bfd147f-a627-41c6-b371-fb14a1511b7f&amp;table=block&amp;spaceId=00feaf78-d356-41ee-90f9-616e7f73fd77&amp;expirationTimestamp=1711324800000&amp;signature=amgT9-_rHnwL2TMlSRPOkSyuBq_QqBFxrZaYK3sSiDc&amp;downloadName=16-%E1%84%8B%E1%85%B4%E1%84%89%E1%85%A1%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%84%89%E1%85%B3-%E1%84%8B%E1%85%B4%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%84%89%E1%85%A9.html#">뉴스</a></li>
+    <li><a href="https://file.notion.so/f/f/00feaf78-d356-41ee-90f9-616e7f73fd77/e5d7bdd0-f3b1-4bbf-9baa-815760bd3eb8/16-%E1%84%8B%E1%85%B4%E1%84%89%E1%85%A1%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%84%89%E1%85%B3-%E1%84%8B%E1%85%B4%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%84%89%E1%85%A9.html?id=6bfd147f-a627-41c6-b371-fb14a1511b7f&amp;table=block&amp;spaceId=00feaf78-d356-41ee-90f9-616e7f73fd77&amp;expirationTimestamp=1711324800000&amp;signature=amgT9-_rHnwL2TMlSRPOkSyuBq_QqBFxrZaYK3sSiDc&amp;downloadName=16-%E1%84%8B%E1%85%B4%E1%84%89%E1%85%A1%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%84%89%E1%85%B3-%E1%84%8B%E1%85%B4%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%84%89%E1%85%A9.html#">증권</a></li>
+    <li><a href="https://file.notion.so/f/f/00feaf78-d356-41ee-90f9-616e7f73fd77/e5d7bdd0-f3b1-4bbf-9baa-815760bd3eb8/16-%E1%84%8B%E1%85%B4%E1%84%89%E1%85%A1%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%84%89%E1%85%B3-%E1%84%8B%E1%85%B4%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%84%89%E1%85%A9.html?id=6bfd147f-a627-41c6-b371-fb14a1511b7f&amp;table=block&amp;spaceId=00feaf78-d356-41ee-90f9-616e7f73fd77&amp;expirationTimestamp=1711324800000&amp;signature=amgT9-_rHnwL2TMlSRPOkSyuBq_QqBFxrZaYK3sSiDc&amp;downloadName=16-%E1%84%8B%E1%85%B4%E1%84%89%E1%85%A1%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%84%89%E1%85%B3-%E1%84%8B%E1%85%B4%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%84%89%E1%85%A9.html#">지도</a></li>
+  </ul>
+
+</body></html>

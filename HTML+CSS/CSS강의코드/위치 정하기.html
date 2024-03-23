@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<!-- saved from url=(0514)https://file.notion.so/f/f/00feaf78-d356-41ee-90f9-616e7f73fd77/050584a9-ada2-44cb-a797-a451c23aae7a/13-%E1%84%8B%E1%85%B1%E1%84%8E%E1%85%B5%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5.html?id=0d795ebb-e183-4ac6-91cb-3d627a7ab1f2&table=block&spaceId=00feaf78-d356-41ee-90f9-616e7f73fd77&expirationTimestamp=1711324800000&signature=ON7gFSiT27dEIQ3RuSIxWZuFpVpgXMsEeAj7PcgHbHg&downloadName=13-%E1%84%8B%E1%85%B1%E1%84%8E%E1%85%B5%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5.html -->
+<html lang="ko"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>위치 정하기</title>
+  <style>
+    div{
+      width: 100px;
+      height: 100px;
+      color: white;
+      background-color: orange;
+    }
+    .rel{
+      background-color: red;
+      position: relative;
+      top: 50px;
+      left: 50px;
+    }
+    .abs{
+      /*
+      앱솔루트 요소는 position 속성을 가진 요소를
+      기준으로 위치를 이동한다. 단, 상위 요소 중에
+      position 속성을 가진 요소가 없다면 
+      그냥 화면을 기준으로 이동한다.
+      */
+      position: absolute;
+      right: 50px;
+      top: 50px;
+    }
+    .scroll{
+      height: 2000px;
+    }
+    .fixed{
+      position: fixed;
+      right: 50px;
+      bottom: 50px;
+    }
+  </style>
+</head>
+<body>
+  <div class="abs">1</div>
+  <div class="rel">2</div>
+  <div class="scroll">3</div>
+  <div class="fixed">4</div>
+
+</body></html>
