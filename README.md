@@ -6,7 +6,7 @@
 ### 챌린지
 | 순서 | 과제 명 | 작성 일자  | 작성 언어  | 
 | --- | --- | --- | --- |
-| 1 | [프로필 페이지 만들기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project/profile_page) | 24.03.23. |  HTML |
+| 1 | [사용자 정보 입력받고 출력하기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/mini_project/get_user_info) | 24.03.24. |  JavaScript + HTML |
 
 ### [HTML+CSS](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project)
 ### 챌린지
