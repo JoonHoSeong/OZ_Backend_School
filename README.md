@@ -27,7 +27,7 @@
 | 1 | [당근마켓클론코딩](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project/carrot_store_clone_coding) | 24.03.23. | HTML + CSS|
 
 ## 강의 실습
-### [HTML+CSS](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/Trainning)
+### [JavaScript](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/Trainning)
 | 순서 | 실습 명 | 작성 일자 | 작성 언어  | 
 | --- | --- | --- | --- |
 | 1 | [02-자바스크립트소개](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/Trainning/html/02-자바스크립트소개.html) | '24.03.24 | JavaScript + HTML |
