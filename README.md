@@ -27,6 +27,40 @@
 | 1 | [당근마켓클론코딩](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project/carrot_store_clone_coding) | 24.03.23. | HTML + CSS|
 
 ## 강의 실습
+### [HTML+CSS](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/Trainning)
+| 순서 | 실습 명 | 작성 일자 | 작성 언어  | 
+| --- | --- | --- | --- |
+| 1 | [02-자바스크립트소개](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/Trainning/html/02-자바스크립트소개.html) | '24.03.24 | JavaScript + HTML |
+| 2 | [03-자바스크립트동작원리&출력해보기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/Trainning/html/03-자바스크립트동작원리&출력해보기.html) | '24.03.24 | JavaScript + HTML |
+| 3 | [04-콘솔출력&자료형개념소개](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/Trainning/html/04-콘솔출력&자료형개념소개.html) | '24.03.24 | JavaScript + HTML |
+| 4 | [05-변수와상수그리고대입](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/Trainning/html/05-변수와상수그리고대입.html) | '24.03.24 | JavaScript + HTML |
+| 5 | [06-문자열&window.prompt()](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/Trainning/html/06-문자열&window.prompt().html) | '24.03.24 | JavaScript + HTML |
+| 6 | [07-템플릿리터럴](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/Trainning/html/07-템플릿리터럴.html) | '24.03.24 | JavaScript + HTML |
+| 7 | [08-undefined_null_boolean_그리고window.confirm()](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/Trainning/html/08-undefined_null_boolean_그리고window.confirm().html) | '24.03.24 | JavaScript + HTML |
+| 8 | [09-DOM소개&콘텐츠변경하기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/Trainning/html/09-DOM소개&콘텐츠변경하기.html) | '24.03.24 | JavaScript + HTML |
+| 9 | [10-사용자정보입력받고출력하기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/Trainning/html/10-사용자정보입력받고출력하기.html) | '24.03.24 | JavaScript + HTML |
+| 10 | [10-DOM메소드-속성--](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/Trainning/html/10-DOM메소드-속성.html) | '24.03.25 | JavaScript + HTML |
+| 11 | [11-비교연산](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/Trainning/html/11-비교연산.html) | '24.03.25 | JavaScript + HTML |
+| 12 | [12-조건문-만들기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/Trainning/html/12-조건문-만들기.html) | '24.03.25 | JavaScript + HTML |
+| 13 | [13-반복문-만들기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/Trainning/html/13-반복문-만들기.html) | '24.03.25 | JavaScript + HTML |
+| 14 | [15-createElement-appendChild](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/Trainning/html/15-createElement-appendChild.html) | '24.03.25 | JavaScript + HTML |
+| 15 | [16-함수-정의하고호출하기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/Trainning/html/16-함수-정의하고호출하기.html) | '24.03.25 | JavaScript + HTML |
+| 16 | [16-monster](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/Trainning/html/16-monster.html) | '24.03.25 | JavaScript + HTML |
+| 17 | [17-인수-반환](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/Trainning/html/17-인수-반환.html) | '24.03.25 | JavaScript + HTML |
+| 18 | [18-이벤트-이벤트핸들링](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/Trainning/html/18-이벤트-이벤트핸들링.html) | '24.03.25 | JavaScript + HTML |
+| 19 | [19-value](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/Trainning/html/19-value.html) | '24.03.25 | JavaScript + HTML |
+| 20 | [20-객체를만드는생성자](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/Trainning/html/20-객체를만드는생성자.html) | '24.03.25 | JavaScript + HTML |
+| 21 | [21-빌트인생성자](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/Trainning/html/21-빌트인생성자.html) | '24.03.25 | JavaScript + HTML |
+| 22 | [22-타이머메소드](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/Trainning/html/22-타이머메소드.html) | '24.03.25 | JavaScript + HTML |
+| 23 | [23-배열](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/Trainning/html/23-배열.html) | '24.03.25 | JavaScript + HTML |
+| 24 | [24-클래스리스트](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/Trainning/html/24-클래스리스트.html) | '24.03.25 | JavaScript + HTML |
+| 25 | [25-math](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/Trainning/html/25-math.html) | '24.03.25 | JavaScript + HTML |
+| 26 | [26-객체리터럴](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/Trainning/html/26-객체리터럴.html) | '24.03.25 | JavaScript + HTML |
+| 27 | [27-JSON](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/Trainning/html/27-JSON.html) | '24.03.25 | JavaScript + HTML |
+| 28 | [28-로컬저장소](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/Trainning/html/28-로컬저장소.html) | '24.03.25 | JavaScript + HTML |
+| 29 | [29-배열메소드추가](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/Trainning/html/29-배열메소드추가.html) | '24.03.25 | JavaScript + HTML |
+
+
 ### [HTML+CSS](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning)
 | 순서 | 실습 명 | 작성 일자 | 작성 언어  | 
 | --- | --- | --- | --- |
