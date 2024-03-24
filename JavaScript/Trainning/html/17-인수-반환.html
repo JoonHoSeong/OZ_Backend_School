@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>인수 & 반환</title>
+</head>
+<body>
+
+  <div id="container"></div>
+
+  <script>  
+
+    createParagraph("함수 정의 시 매개변수를 포함시키고", "red")
+    createParagraph("함수 호출 시 매개변수의 개수만큼 인수를 전달하면", "blue")
+    createParagraph("인수가 매개변수에 대입되어 기능을 수행합니다", "teal")
+
+    console.log(getText())
+    console.log(getText())
+    // function createParagraph(content){
+    //   const p = document.createElement("p")
+    //   p.textContent = content
+    //   document.querySelector("#container").append(p)
+    // }
+    function getText(){
+      console.log("반환 기능을 테스트해 볼까요?")
+      return "짜자잔"
+    }
+    function createParagraph(content, textColor){
+      const p = document.createElement("p")
+      p.textContent = content
+      p.style.color = textColor
+      document.querySelector("#container").append(p)
+
+      return `방금 만들어진 태그의 콘텐츠: ${content}, 색상: ${textColor}`
+    }
+  </script>
+</body>
+</html>

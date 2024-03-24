@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>배열 메소드 추가 학습</title>
+</head>
+<body>
+  <div id="container"></div>
+
+  <script>
+    const crops = ["토마토", "고추", "가지", "고구마", "들깨"]
+    
+    crops.forEach(function(crop){
+      const p = document.createElement("p")
+      p.textContent = `맛 좋은 ${crop}`
+      document.getElementById("container").append(p)
+    })
+
+    let  result = crops.map(function(crop){
+      const h2 = document.createElement("h2")
+      h2.textContent = `맛 좋은 ${crop}`
+      document.getElementById("container").append(h2)
+      return h2
+    })
+    console.log(result)
+
+    result = crops.filter(function(crop){
+      return crop.length === 3
+    })
+    console.log(result)
+  </script>
+</body>
+</html>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>빌트인 생성자</title>
+</head>
+<body>
+
+  <p id="now"></p>
+
+  <script> 
+
+    const p = document.getElementById("now")
+
+    const now = new Date() // 코드 실행 시점의 시간 정보를 속성으로 가진다
+    const then = new Date(1992, 11, 19, 12, 30, 45) // 지정한 시점의 시간 정보를 속성으로 가진다
+
+    console.log(now)
+    console.log(then)
+
+    let year, month, day, hour, min, sec;
+    year = now.getFullYear()
+    month = now.getMonth() + 1
+    day = now.getDate()
+    hour = now.getHours()
+    min = now.getMinutes()
+    sec = now.getSeconds()
+    
+    p.textContent = `${year}/${month}/${day} ${hour}:${min}:${sec}`
+
+  
+  </script>
+</body>
+</html>

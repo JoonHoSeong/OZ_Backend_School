@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>회원가입 양식</title>
+  <link href="join.css" rel="stylesheet">
+</head>
+<body>
+  <div id="container">
+    <form action="#" id="form">
+      <table class="table">
+        <tr>
+          <th>아이디</th>
+          <td><input type="text" name="id" placeholder="사용할 아이디" autocomplete="off" ></td>
+        </tr>
+        <tr>
+          <th>비밀번호</th>
+          <td><input type="password" name="pw1" placeholder="비밀번호" ></td>
+        </tr>
+        <tr>
+          <th>비밀번호확인</th>
+          <td><input type="password" name="pw2" placeholder="비밀번호 확인" ></td>
+        </tr>
+        <tr>
+          <th>이름</th>
+          <td><input type="text" name="name" placeholder="이름" autocomplete="off" ></td>
+        </tr>
+        <tr>
+          <th>전화번호</th>
+          <td>
+            <input type="text" name="phone" placeholder="휴대 전화 번호" autocomplete="off" >
+          </td>
+        </tr>
+        <tr>
+          <th>원하는 직무</th>
+          <td>
+            <select name="position">
+              <option value="developer">개발자</option>
+              <option value="designer">웹디자이너</option>
+              <option value="manager">기획자</option>
+              <option value="undetermined" selected>미정</option>
+            </select>
+          </td>
+        </tr>
+        <tr>
+          <th>성별</th>
+          <td>
+            <label>
+              <input type="radio" name="gender" value="male" checked>남자
+            </label>
+            <label>
+              <input type="radio" name="gender" value="female">여자
+            </label>
+          </td>
+        </tr>
+        <tr>
+          <th>이메일</th>
+          <td>
+            <input title="정확한 메일 주소를 작성해주세요" type="email" name="email" autocomplete="off">
+          </td>
+        </tr>
+        <tr>
+          <th>자기소개</th>
+          <td>
+            <textarea name="intro"></textarea>
+          </td>
+        </tr>
+      </table>
+      <div class="buttons">
+        <input title="가입하기" type="submit" class="btn" value="가입">
+        <input title="처음 상태로" type="reset" class="btn" value="리셋">
+      </div>
+    </form>
+  </div>
+
+  <script src="join.js"></script>
+</body>
+</html>

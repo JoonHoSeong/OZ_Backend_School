@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>배열</title>
+</head>
+<body>
+
+  <script> 
+    const vos = ["박지헌", "최현준", "김경록"]
+    console.log(vos)
+    // console.log(vos[0])
+    // console.log(vos[1])
+    // console.log(vos[2])
+    vos[0] = "지헌"
+    vos[1] = "현준"
+    vos[2] = "경록"
+    // console.log(vos[0])
+    // console.log(vos[1])
+    // console.log(vos[2])
+
+    vos.push("윤호")
+    console.log(vos)
+    vos.pop()
+    console.log(vos)
+    console.log(vos.indexOf("경록"))
+    console.log(vos.indexOf("윤호"))
+
+    vos.splice(0, 1, "박지헌")
+    vos.splice(1, 1, "최현준")
+    vos.splice(2, 1, "김경록")
+    console.log(vos)
+
+    vos.forEach(function(member){
+      console.log("VOS의 " + member)
+    })
+  </script>
+</body>
+</html>

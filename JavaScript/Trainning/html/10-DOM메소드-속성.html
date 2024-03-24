@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DOM 메소드 및 속성</title>
+</head>
+<body>
+  <h1 id="song-title" class="heading" title="가수: VOS(박지헌, 최현준, 김경록), 곡명: 다시 만날까 봐 노래 제목">
+    <span>다시 만날까 봐</span>
+  </h1>
+  <p class="lyrics">인스타로 몰래 보는 너의 하루들 누가 봐도 헤어진 티를 내</p>
+  <p class="lyrics">팔로우 다 끊고서 좋아요는 왜 눌렀니 (ㅋㅋ)</p>
+  
+  <script>  
+    console.log(document.querySelectorAll(".lyrics"))
+    console.log(document.getElementsByClassName("lyrics"))
+
+    const title = document.getElementById("song-title")
+    console.log(title.textContent)
+    console.log(title.innerHTML)
+    console.log(title.className)
+    console.log(title.style)
+    console.log(title.title)
+  </script>
+</body>
+</html>

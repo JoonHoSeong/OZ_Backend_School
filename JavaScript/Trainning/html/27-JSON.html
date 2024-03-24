@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JSON</title>
+</head>
+<body>
+
+  <script>
+    const todoList = {
+      todoText: "밥먹기",
+      todoNumber: 1
+    }
+    // 위 객체를 JSON 형식으로 작성하면?
+    /*
+    const todoList = "{
+      'todoText': '밥먹기',
+      'todoNumber': 1
+    }"
+    */
+
+    const todoListStr = JSON.stringify(todoList)
+    console.log(todoListStr)
+    console.log(typeof todoListStr)
+    console.log(JSON.parse(todoListStr))
+  </script>
+</body>
+</html>

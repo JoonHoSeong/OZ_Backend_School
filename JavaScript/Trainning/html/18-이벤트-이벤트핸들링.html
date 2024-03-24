@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>이벤트 & 이벤트 핸들링</title>
+</head>
+<body>
+
+  <button id="span">SPAN</button>
+
+  <button id="strong">STRONG</button>
+
+  <button id="mark">MARK</button>
+
+  <hr>
+
+  <script>  
+    const spanBtn = document.getElementById("span")
+    const strongBtn = document.getElementById("strong")
+    const markBtn = document.getElementById("mark")
+    /*
+    spanBtn.onclick = function(){
+      // alert("왜 누르셨어요!")
+      const span = document.createElement("span")
+      span.textContent = "안녕하세요"
+      document.body.append(span)
+    } 
+    */
+
+    const handleClick = function(event){
+      if(event.target.id === "span"){
+        const span = document.createElement("span")
+        span.textContent = "안녕하세요"
+        document.body.append(span)
+      }
+      else if(event.target.id === "strong"){
+        const strong = document.createElement("strong")
+        strong.textContent = "안녕하세요"
+        document.body.append(strong)
+      }
+      else if(event.target.id === "mark"){
+        const mark = document.createElement("mark")
+        mark.textContent = "안녕하세요"
+        document.body.append(mark)
+      } 
+    }
+
+    spanBtn.addEventListener("click", handleClick)
+    strongBtn.addEventListener("click", handleClick)
+    markBtn.addEventListener("click", handleClick)
+  </script>
+</body>
+</html>

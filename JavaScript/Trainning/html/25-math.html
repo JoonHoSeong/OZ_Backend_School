@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>빌트인 객체 Math</title>
+</head>
+<body>
+
+  <button id="draw">추첨</button>
+  <p id="number"></p>
+
+  <script> 
+
+    const button = document.getElementById("draw")
+    const p = document.getElementById("number")
+
+    console.log(Math.sqrt(4))
+    console.log(Math.abs(-4))
+
+    let rn = Math.random()
+    // console.log(rn * 10)
+    console.log(Math.floor(rn * 10) + 1)
+
+    const MAX_NUM = 100
+    const MIN_NUM = 1
+    // Math.floor(Math.random() * MAX_NUM) + MIN_NUM
+
+    button.addEventListener("click", function(){
+      p.textContent = Math.floor(Math.random() * MAX_NUM) + MIN_NUM
+    })
+  </script>
+</body>
+</html>

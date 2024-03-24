@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>클래스 리스트</title>
+  <style>
+    .pretty{
+      width: 200px;
+      height: 200px;
+      border-radius: 50%;
+    }
+  </style>
+</head>
+<body>
+
+  <img src="my-cat.png" alt="강윤호의 반려 고양이 국희">
+  <br>
+  <button id="add">ADD STYLE</button>
+  <button id="remove">REMOVE STYLE</button>
+  <button id="toggle">TOGGLE STYLE</button>
+
+  <script> 
+    const img = document.querySelector("img")
+    const addBtn = document.getElementById("add")
+    const removeBtn = document.getElementById("remove")
+    const toggleBtn = document.getElementById("toggle")
+
+    console.log(img.classList)
+    addBtn.addEventListener("click", function(){
+      img.classList.add("pretty")
+      console.log(img.classList.contains("pretty"))
+    })
+    removeBtn.addEventListener("click", function(){
+      img.classList.remove("pretty")
+      console.log(img.classList.contains("pretty"))
+    })
+    toggleBtn.addEventListener("click", function(){
+      img.classList.toggle("pretty")
+      console.log(img.classList.contains("pretty"))
+    })
+  </script>
+</body>
+</html>

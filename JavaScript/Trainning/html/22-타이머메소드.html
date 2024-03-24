@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>타이머 메소드</title>
+</head>
+<body>
+
+  <p id="now"></p>
+  <button id="stop">멈춰!</button>
+
+  <script> 
+
+    /*
+    setTimeout(function(){
+      alert("타임 아웃!")
+    }, 3000)
+    */
+
+    const p = document.getElementById("now")
+    const button = document.getElementById("stop")
+
+    let timerId = setInterval(function(){
+      const now = new Date() // 코드 실행 시점의 시간 정보를 속성으로 가진다
+
+      let year, month, day, hour, min, sec;
+      year = now.getFullYear()
+      month = now.getMonth() + 1
+      day = now.getDate()
+      hour = now.getHours()
+      min = now.getMinutes()
+      sec = now.getSeconds()
+
+      p.textContent = `${year}/${month}/${day} ${hour}:${min}:${sec}`
+    }, 1000)
+
+    button.addEventListener("click", function(){
+      clearInterval(timerId)
+    })
+
+  
+  </script>
+</body>
+</html>

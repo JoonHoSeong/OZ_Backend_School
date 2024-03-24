@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>createElement & appendChild</title>
+</head>
+<body>
+
+  <div id="container"></div>
+
+  <script>  
+    // for(let i = 0; i < 5; i += 1){
+      const box = document.createElement("div")
+      box.style.boxSizing = "border-box"
+      box.style.width = "200px"
+      box.style.height = "200px"
+      box.style.backgroundColor = "tomato"
+      box.style.border = "3px solid teal"
+
+      console.log(box) // 여기까지는 해봤자 화면에는 추가 X
+
+      document.getElementById("container").appendChild(box)
+    // }
+  </script>
+</body>
+</html>

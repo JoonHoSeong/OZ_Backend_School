@@ -1,0 +1,117 @@
+@font-face {
+  font-family: 'Dongle-Regular';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2108_2@1.0/Dongle-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+*{
+  font-family: 'Dongle-Regular';
+  box-sizing: border-box;
+}
+
+html{
+  font-size: 18px;
+}
+
+body{
+  margin: 0; 
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.app{
+  position: relative;
+  width: 320px;
+  height: 568px;
+  border-radius: 16px;
+  background-color: rgb(171, 193, 209);
+}
+
+.app  > h1{
+  font-size: 2em;
+  text-align: center;
+  margin: 10px 5px;
+  border-bottom: 0.5px solid rgb(234, 234, 234);
+}
+
+ul{
+  max-height: 420px;
+  overflow: auto;
+}
+
+ul > li{
+  cursor: pointer;
+  position: relative;
+  left: 60px;
+  list-style-type: none;
+  width: 200px;
+  height: 40px;
+  margin-bottom: 10px;
+  padding: 6px;
+  background-color: rgb(254, 229, 77);
+  border-radius: 8px;
+}
+
+ul > li::after{
+  content: "";
+  position: absolute;
+  top: 10px;
+  right: -10px;
+  width: 0;
+  height: 0; 
+  border-bottom: 16px solid transparent;
+  border-left: 16px solid rgb(254, 229, 77);
+}
+
+ul > li > span{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 16px; 
+  height: 16px;
+  border-radius: 8px;
+  background-color: rgb(234, 234, 234);
+  position: absolute;
+  left: -20px;
+  bottom: 2px;
+}
+
+form{
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  bottom: 0;
+}
+input{
+  font-size: 1.4em;
+  margin: 0;
+  border: none;
+  height: 45px;
+}
+input[type="text"]{
+  width: 240px;
+  padding-left: 10px;
+}
+input[type="text"]:focus{
+  outline: none;
+}
+input[type="submit"]{
+  cursor: pointer;
+  width: 80px;
+  border-radius: 8px;
+  background-color: rgb(254, 229, 77);
+}
+
+.done{
+  color: rgb(93, 93, 93);
+  background-color: rgb(234, 234, 234);
+}
+
+.done::after{
+  border-left: 16px solid rgb(234, 234, 234);
+}

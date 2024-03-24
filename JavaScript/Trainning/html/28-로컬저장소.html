@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>로컬 저장소</title>
+</head>
+<body>
+
+  <p id="item">이봉주</p>
+  <button id="set">SET</button>
+  <button id="get">GET</button>
+  <button id="remove">REMOVE</button>
+  <button id="clear">CLEAR</button>
+
+  <script>
+    const item = document.getElementById("item")
+    document.getElementById("set").addEventListener("click", function(){
+      localStorage.setItem("마라토너", item.textContent)
+    })
+    document.getElementById("get").addEventListener("click", function(){
+      alert(localStorage.getItem("마라토너"))
+    })
+    document.getElementById("remove").addEventListener("click", function(){
+      localStorage.removeItem("마라토너")
+    })
+    document.getElementById("clear").addEventListener("click", function(){
+      localStorage.clear()
+    })
+  </script>
+</body>
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>함수 정의하고 호출하기</title>
+</head>
+<body>
+
+  <div id="container"></div>
+
+  <script>  
+
+    createParagraph()
+    createParagraph()
+    createParagraph()
+
+    // 함수 이름 짓기 규칙은 변수와 같다. but 기능을 정의하는 만큼, 동사를 주로 사용하자!
+    function sayYes(){
+      alert("Yes!!")
+    }
+
+    const sayNo = function(){
+      alert("No!!")
+    }
+
+    function createParagraph(){
+      const p = document.createElement("p")
+      p.textContent = "P 태그가 만들어졌습니다."
+      document.querySelector("#container").append(p)
+    }
+    // const createParagraph = function(){
+    //   const p = document.createElement("p")
+    //   p.textContent = "P 태그가 만들어졌습니다."
+    //   document.querySelector("#container").append(p)
+    // }
+  </script>
+</body>
+</html>

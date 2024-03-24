@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>객체 리터럴</title>
+</head>
+<body>
+
+  <script> 
+    const cat = {
+      species: "포유류",
+      title: "고양이"
+    }
+
+    console.log(cat)
+    console.log(cat.species)
+    console.log(cat["title"])
+    console.log(typeof cat)
+
+    const gookhee = {
+      ...cat,
+      name: "국희",
+      age: 4, 
+      favorite: ["끈", "창틀" , "햇살"]
+    }
+
+    console.log(gookhee)
+    console.log(gookhee.species)
+    console.log(gookhee.favorite)
+    console.log(typeof gookhee)
+
+  </script>
+</body>
+</html>

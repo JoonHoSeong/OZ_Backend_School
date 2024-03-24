@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>이벤트 & 이벤트 핸들링</title>
+</head>
+<body>
+
+  <input id="talk"><input id="push" type="button" value="생성">
+
+  <form id="form">
+    <input name="name">
+    <input name="nick">
+    <input type="submit">
+  </form>
+
+  <script> 
+    const input = document.getElementById("talk")
+    const button = document.getElementById("push")
+    const form = document.getElementById("form")
+    input.addEventListener("keyup", function(e){
+      console.log(e.target.value)
+    }) 
+    button.addEventListener("click", function(e){
+      const p = document.createElement("p")
+      p.textContent = input.value
+      document.body.append(p)
+    })
+    form.addEventListener("submit", function(e){
+      e.preventDefault()
+      console.log(`이름: ${e.target.name.value}, 별명:  ${e.target.nick.value}`)
+    })
+  </script>
+</body>
+</html>
