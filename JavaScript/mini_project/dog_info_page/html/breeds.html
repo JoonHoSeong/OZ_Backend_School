@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>견종 정보 페이지</title>
+  <link href="../src/breeds.css" rel="stylesheet">
+</head>
+<body>
+
+  <div id="container">
+    <header class="header" id="header">
+      <div class="header__search">
+        <input id="filter-text">
+        <button id="filter-button">필터링</button>
+      </div>
+      <select id="filter-select">
+        <option value="">all</option>
+      </select>
+      <!-- 리셋 버튼 추가  -->
+      <button type="button" class="reset" id="reset">초기화</button>
+    </header>
+    <main class="main" id="main">
+    </main>
+    <div class="more" id="more">MORE</div>
+    <div class="tothetop" id="tothetop">TOP</div>
+  </div>
+  
+  <script src="../js/breeds.js"></script>
+</body>
+</html>
