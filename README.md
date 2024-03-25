@@ -8,7 +8,16 @@
 | --- | --- | --- | --- |
 | 1 | [사용자 정보 입력받고 출력하기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/mini_project/get_user_info) | 24.03.24. |  JavaScript + HTML |
 | 2 | [몬스터잡기게임](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/mini_project/monster_game) | 24.03.25. |  JavaScript + HTML |
-| 2 | [회원가입 폼 만들기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/mini_project/join) | 24.03.25. |  JavaScript + HTML |
+| 3 | [회원가입 폼 만들기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/mini_project/join) | 24.03.25. |  JavaScript + HTML |
+
+### 추가 과제
+| 순서 | 과제 명 | 작성 일자 | 작성 언어  | 
+| --- | --- | --- | --- |
+| 1 | [로또 번호 추첨게임](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/mini_project/join) | 24.03.25. |  JavaScript + HTML |
+| 2 | [할일 목록 만들기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/mini_project/join) | 24.03.25. |  JavaScript + HTML |
+| 3 | [강아지 정보 페이지 프로젝트](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/mini_project/join) | 24.03.25. |  JavaScript + HTML |
+
+
 
 ### [HTML+CSS](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project)
 ### 챌린지
