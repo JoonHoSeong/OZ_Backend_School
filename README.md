@@ -24,7 +24,8 @@
 
 
 
-### [HTML+CSS](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project)
+### [
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project)
 ### 챌린지
 | 순서 | 과제 명 | 작성 일자  | 작성 언어  | 
 | --- | --- | --- | --- |
@@ -79,7 +80,8 @@
 | 29 | [29-배열메소드추가](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/Trainning/html/29-배열메소드추가.html) | '24.03.25 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
 
 
-### [HTML+CSS](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning)
+### [
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning)
 | 순서 | 실습 명 | 작성 일자 | 작성 언어  | 
 | --- | --- | --- | --- |
 | 1 | [04-HTML기본문법](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/HTML_Trainnig/04-HTML기본문법.html) | '24.03.21 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)|
@@ -95,28 +97,53 @@
 | 11 | [14-input외입력태그](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/HTML_Trainnig/14-input외입력태그.html) | '24.03.21 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)|
 | 12 | [15-양식만들고값전송하기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/HTML_Trainnig/15-양식만들고값전송하기.html) | '24.03.21 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)|
 | 13 | [17-문서정보 관리](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/HTML_Trainnig/17-문서정보관리.html) | '24.03.21 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)|
-| 14 | [19-CSS문서사용하기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/19-CSS문서사용하기.html) | '24.03.21 | HTML+CSS |
-| 15 | [20-선택자기본편](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/20-선택자기본편.html) | '24.03.21 | HTML+CSS |
-| 16 | [21-박스모델이란](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/21-박스모델이란.html) | '24.03.21 | HTML+CSS |
-| 17 | [22-테두리스타일](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/22-테두리스타일.html) | '24.03.22 | HTML+CSS |
-| 18 | [23-여백만들기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/23-여백만들기.html) | '24.03.22 | HTML+CSS |
-| 19 | [24-배경다루기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/24-배경다루기.html) | '24.03.22 | HTML+CSS |
-| 20 | [25-색상지정하기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/25-색상지정하기.html) | '24.03.22 | HTML+CSS |
-| 21 | [26-텍스트꾸미기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/26-텍스트꾸미기.html) | '24.03.22 | HTML+CSS |
-| 22 | [27-요소의유형](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/27-요소의유형.html) | '24.03.22 | HTML+CSS |
-| 23 | [28-문서의흐름](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/28-문서의흐름.html) | '24.03.22 | HTML+CSS |
-| 24 | [29-위치지정하기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/29-위치지정하기.html) | '24.03.22 | HTML+CSS |
-| 25 | [30-켭치거나넘치는요소다루기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/30-켭치거나넘치는요소다루기.html) | '24.03.22 | HTML+CSS |
-| 26 | [31-선택자더알아보기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/31-선택자더알아보기.html) | '24.03.22 | HTML+CSS |
-| 27 | [32-의사요소와의사클래스](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/32-의사요소와의사클래스.html) | '24.03.22 | HTML+CSS |
-| 28 | [28-문서의흐름](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/28-문서의흐름.html) | '24.03.22 | HTML+CSS |
-| 29 | [29-위치지정하기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/29-위치지정하기.html) | '24.03.22 | HTML+CSS |
-| 30 | [30-겹치거나넘치는요소다루기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/30-겹치거나넘치는요소다루기.html) | '24.03.22 | HTML+CSS |
-| 31 | [31-선택자더알아보기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/31-선택자더알아보기.html) | '24.03.22 | HTML+CSS |
-| 32 | [32-의사요소와의사클래스](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/32-의사요소와의사클래스.html) | '24.03.22 | HTML+CSS |
-| 33 | [33-변환과전환](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/33-변환과전환.html) | '24.03.22 | HTML+CSS |
-| 34 | [34-애니메이션효과](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/34-애니메이션효과.html) | '24.03.23 | HTML+CSS |
-| 35 | [35-상속과공용키워드](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/35-상속과공용키워드.html) | '24.03.23 | HTML+CSS |
-| 36 | [36-반응형웹과뷰포트단위](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/36-반응형웹과뷰포트단위.html) | '24.03.23 | HTML+CSS |
-| 37 | [37-미디어쿼리](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/37-미디어쿼리.html) | '24.03.23 | HTML+CSS |
-| 38 | [38-플렉스박스](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/38-플렉스박스.html) | '24.03.23 | HTML+CSS |
+| 14 | [19-CSS문서사용하기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/19-CSS문서사용하기.html) | '24.03.21 | 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| 15 | [20-선택자기본편](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/20-선택자기본편.html) | '24.03.21 | 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| 16 | [21-박스모델이란](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/21-박스모델이란.html) | '24.03.21 | 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| 17 | [22-테두리스타일](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/22-테두리스타일.html) | '24.03.22 | 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| 18 | [23-여백만들기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/23-여백만들기.html) | '24.03.22 | 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| 19 | [24-배경다루기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/24-배경다루기.html) | '24.03.22 | 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| 20 | [25-색상지정하기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/25-색상지정하기.html) | '24.03.22 | 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| 21 | [26-텍스트꾸미기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/26-텍스트꾸미기.html) | '24.03.22 | 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| 22 | [27-요소의유형](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/27-요소의유형.html) | '24.03.22 | 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| 23 | [28-문서의흐름](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/28-문서의흐름.html) | '24.03.22 | 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| 24 | [29-위치지정하기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/29-위치지정하기.html) | '24.03.22 | 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| 25 | [30-켭치거나넘치는요소다루기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/30-켭치거나넘치는요소다루기.html) | '24.03.22 | 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| 26 | [31-선택자더알아보기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/31-선택자더알아보기.html) | '24.03.22 | 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| 27 | [32-의사요소와의사클래스](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/32-의사요소와의사클래스.html) | '24.03.22 | 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| 28 | [28-문서의흐름](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/28-문서의흐름.html) | '24.03.22 | 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| 29 | [29-위치지정하기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/29-위치지정하기.html) | '24.03.22 | 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| 30 | [30-겹치거나넘치는요소다루기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/30-겹치거나넘치는요소다루기.html) | '24.03.22 | 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| 31 | [31-선택자더알아보기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/31-선택자더알아보기.html) | '24.03.22 | 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| 32 | [32-의사요소와의사클래스](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/32-의사요소와의사클래스.html) | '24.03.22 | 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| 33 | [33-변환과전환](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/33-변환과전환.html) | '24.03.22 | 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| 34 | [34-애니메이션효과](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/34-애니메이션효과.html) | '24.03.23 | 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| 35 | [35-상속과공용키워드](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/35-상속과공용키워드.html) | '24.03.23 | 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| 36 | [36-반응형웹과뷰포트단위](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/36-반응형웹과뷰포트단위.html) | '24.03.23 | 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| 37 | [37-미디어쿼리](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/37-미디어쿼리.html) | '24.03.23 | 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| 38 | [38-플렉스박스](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/38-플렉스박스.html) | '24.03.23 | 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
