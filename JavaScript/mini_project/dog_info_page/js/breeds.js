@@ -93,17 +93,16 @@ tothetop.addEventListener("click", function(){
 //리셋버튼
 resetButton.addEventListener('click', function(){
 
-  main.innerHTML = ""
-  currentDogs = []
-  console.log('실행 전 길이 ',currentDogs.length)
-  request1.open("GET" , apiRandomDogs)
-  request1.addEventListener('load', function(){
+
+  request1.open("GET", apiRandomDogs)
+  request1.addEventListener("load", function(){
+    main.innerHTML = ""
+    currentDogs = []
     const response = JSON.parse(request1.response)
     response.message.forEach(function(item){
       currentDogs.push(item)
       displayDogs(item)
     });
-    console.log('실행 후 길이 ',currentDogs.length)
   })
   request1.send()
 })
