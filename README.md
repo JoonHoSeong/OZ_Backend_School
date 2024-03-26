@@ -28,19 +28,19 @@
 ### 챌린지
 | 순서 | 과제 명 | 작성 일자  | 작성 언어  | 
 | --- | --- | --- | --- |
-| 1 | [프로필 페이지 만들기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project/profile_page) | 24.03.23. |  HTML |
-| 2 | [설문조사 양식 만들기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project/survey_page) | 24.03.23. |  HTML |
-| 3 | [프로필 페이지에 스타일시트 더하기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project/profile_with_style_sheet) | 24.03.23. |  HTML + CSS|
-| 4 | [나만의 채팅방 만들기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project/chating_room) | 24.03.23. |  HTML + CSS|
+| 1 | [프로필 페이지 만들기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project/profile_page) | 24.03.23. |  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)|
+| 2 | [설문조사 양식 만들기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project/survey_page) | 24.03.23. |  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)|
+| 3 | [프로필 페이지에 스타일시트 더하기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project/profile_with_style_sheet) | 24.03.23. |  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)|
+| 4 | [나만의 채팅방 만들기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project/chating_room) | 24.03.23. |  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)|
 ### 추가 과제
 | 순서 | 과제 명 | 작성 일자 | 작성 언어  | 
 | --- | --- | --- | --- |
-| 1 | [나만의 채팅방에 말풍선 추가하기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project/chating_room_with_bubble) | 24.03.23. | HTML + CSS|
+| 1 | [나만의 채팅방에 말풍선 추가하기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project/chating_room_with_bubble) | 24.03.23. | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)|
 
 ### 클론코딩
 | 순서 | 과제 명 | 작성 일자 | 작성 언어  | 
 | --- | --- | --- | --- |
-| 1 | [당근마켓클론코딩](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project/carrot_store_clone_coding) | 24.03.23. | HTML + CSS|
+| 1 | [당근마켓클론코딩](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project/carrot_store_clone_coding) | 24.03.23. | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)|
 
 <hr>
 
@@ -82,19 +82,19 @@
 ### [HTML+CSS](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning)
 | 순서 | 실습 명 | 작성 일자 | 작성 언어  | 
 | --- | --- | --- | --- |
-| 1 | [04-HTML기본문법](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/HTML_Trainnig/04-HTML기본문법.html) | '24.03.21 | HTML |
-| 2 | [05-HTML문서기본구조](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/HTML_Trainnig/05-HTML문서기본구조.html) | '24.03.21 | HTML |
-| 3 | [06-텍스트표시하기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/HTML_Trainnig/06-텍스트표시하기.html) | '24.03.21 | HTML |
-| 4 | [07-요소의구분과인라인텍스트요소](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/HTML_Trainnig/07-요소의구분과인라인텍스트요소.html) | '24.03.21 | HTML |
-| 5 | [08-컨테이너-전역속성](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/HTML_Trainnig/08-컨테이너-전역속성.html) | '24.03.21 | HTML |
-| 6 | [09-이미지표시하기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/HTML_Trainnig/09-이미지표시하기.html) | '24.03.21 | HTML |
-| 7 | [10-링크표시하기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/HTML_Trainnig/10-링크표시하기.html)  | '24.03.21 | HTML |
-| 8 | [11-목록만들기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/HTML_Trainnig/11-목록만들기.html) | '24.03.21 | HTML |
-| 9 | [12-표만들기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/HTML_Trainnig/12-표만들기.html) | '24.03.21 | HTML |
-| 10 | [13-입력을받자](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/HTML_Trainnig/13-입력을받자.html) | '24.03.21 | HTML |
-| 11 | [14-input외입력태그](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/HTML_Trainnig/14-input외입력태그.html) | '24.03.21 | HTML |
-| 12 | [15-양식만들고값전송하기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/HTML_Trainnig/15-양식만들고값전송하기.html) | '24.03.21 | HTML |
-| 13 | [17-문서정보 관리](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/HTML_Trainnig/17-문서정보관리.html) | '24.03.21 | HTML |
+| 1 | [04-HTML기본문법](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/HTML_Trainnig/04-HTML기본문법.html) | '24.03.21 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)|
+| 2 | [05-HTML문서기본구조](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/HTML_Trainnig/05-HTML문서기본구조.html) | '24.03.21 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)|
+| 3 | [06-텍스트표시하기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/HTML_Trainnig/06-텍스트표시하기.html) | '24.03.21 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)|
+| 4 | [07-요소의구분과인라인텍스트요소](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/HTML_Trainnig/07-요소의구분과인라인텍스트요소.html) | '24.03.21 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)|
+| 5 | [08-컨테이너-전역속성](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/HTML_Trainnig/08-컨테이너-전역속성.html) | '24.03.21 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)|
+| 6 | [09-이미지표시하기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/HTML_Trainnig/09-이미지표시하기.html) | '24.03.21 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)|
+| 7 | [10-링크표시하기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/HTML_Trainnig/10-링크표시하기.html)  | '24.03.21 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)|
+| 8 | [11-목록만들기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/HTML_Trainnig/11-목록만들기.html) | '24.03.21 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)|
+| 9 | [12-표만들기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/HTML_Trainnig/12-표만들기.html) | '24.03.21 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)|
+| 10 | [13-입력을받자](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/HTML_Trainnig/13-입력을받자.html) | '24.03.21 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)|
+| 11 | [14-input외입력태그](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/HTML_Trainnig/14-input외입력태그.html) | '24.03.21 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)|
+| 12 | [15-양식만들고값전송하기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/HTML_Trainnig/15-양식만들고값전송하기.html) | '24.03.21 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)|
+| 13 | [17-문서정보 관리](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/HTML_Trainnig/17-문서정보관리.html) | '24.03.21 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)|
 | 14 | [19-CSS문서사용하기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/19-CSS문서사용하기.html) | '24.03.21 | HTML+CSS |
 | 15 | [20-선택자기본편](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/20-선택자기본편.html) | '24.03.21 | HTML+CSS |
 | 16 | [21-박스모델이란](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/21-박스모델이란.html) | '24.03.21 | HTML+CSS |
