@@ -12,7 +12,7 @@ const more = document.getElementById("more")
 const tothetop = document.getElementById("tothetop")
 const resetButton = document.getElementById("reset")
 
-const currentDogs = []
+let currentDogs = []
 
 function displayDogs(item){
   const dogImgDiv = document.createElement("div")
@@ -94,17 +94,16 @@ tothetop.addEventListener("click", function(){
 resetButton.addEventListener('click', function(){
 
   main.innerHTML = ""
-
-  console.log(currentDogs.length)
+  currentDogs = []
+  console.log('실행 전 길이 ',currentDogs.length)
   request1.open("GET" , apiRandomDogs)
   request1.addEventListener('load', function(){
     const response = JSON.parse(request1.response)
     response.message.forEach(function(item){
-      i += 1
       currentDogs.push(item)
-      console.log(i)
       displayDogs(item)
     });
+    console.log('실행 후 길이 ',currentDogs.length)
   })
   request1.send()
 })
