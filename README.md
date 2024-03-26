@@ -18,9 +18,9 @@
 ### 추가 과제
 | 순서 | 과제 명 | 작성 일자 | 작성 언어  | 
 | --- | --- | --- | --- |
-| 1 | [로또 번호 추첨게임](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/mini_project/lotto) | 24.03.25. |  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
-| 2 | [할일 목록 만들기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/mini_project/to-do-list) | 24.03.25. |  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
-| 3 | [강아지 정보 페이지 프로젝트](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/mini_project/dog_info_page) | 24.03.26. |  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
+| 1 | [로또 번호 추첨게임](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/mini_project/lotto) | 24.03.25. |  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| 2 | [할일 목록 만들기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/mini_project/to-do-list) | 24.03.25. |  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| 3 | [강아지 정보 페이지 프로젝트](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/mini_project/dog_info_page) | 24.03.26. |  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
 
 
 
