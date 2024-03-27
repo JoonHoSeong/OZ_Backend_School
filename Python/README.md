@@ -43,4 +43,5 @@ cd Oz_backend_School/Python
 ### [Python](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/Python/Trainning)
 | 순서 | 실습 명 | 작성 일자 | 작성 언어  | 
 | --- | --- | --- | --- |
-| 1 | []() | 24.03.2. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 1 | [코드 블럭]() | 24.03.2. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 2 | [사칙 연산]() | 24.03.2. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
