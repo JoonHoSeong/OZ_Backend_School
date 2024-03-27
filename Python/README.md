@@ -30,7 +30,7 @@ cd Oz_backend_School/Python
 ### 🔥[챌린지](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/Python/challenge)
 | 순서 | 과제 명 | 작성 일자  | 작성 언어  | 
 | --- | --- | --- | --- |
-| 1 | [사칙연산(Ch04)]() | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 1 | [사칙연산(Ch04)](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/challenge/Ch04_task(code).ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 
 ### 🎆[Mini-Project](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/Python/mini_project)
 | 순서 | 과제 명 | 작성 일자 | 작성 언어  | 
@@ -40,9 +40,9 @@ cd Oz_backend_School/Python
 ### 🖋[Homework](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/Python/homework)
 | 순서 | 과제 명 | 작성 일자 | 작성 언어  | 
 | --- | --- | --- | --- |
-| 1 | [CH01]() | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| 1 | [CH03]() | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| 1 | [CH04]() | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 1 | [CH01](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Ch01_%EA%B0%9C%EB%85%90%ED%99%95%EC%9D%B8%EB%AC%B8%EC%A0%9C%ED%92%80%EA%B8%B0.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 2 | [CH03](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Ch03_%EA%B0%9C%EB%85%90%ED%99%95%EC%9D%B8%EB%AC%B8%EC%A0%9C%ED%92%80%EA%B8%B0.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 3 | [CH04](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Ch04_%EA%B0%9C%EB%85%90%ED%99%95%EC%9D%B8%EB%AC%B8%EC%A0%9C%ED%92%80%EA%B8%B0.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 
 <hr>
 
