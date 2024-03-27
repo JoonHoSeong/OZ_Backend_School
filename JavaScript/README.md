@@ -8,6 +8,10 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+## :man_mechanic:구동환경
+### OS
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)Mac OS Ventura
+
 ## 🖥IDEs/Editors
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -19,7 +23,7 @@ git clone https://github.com/JoonHoSeong/OZ_Backend_School.git
 ```
 2. Move to Project HTML Folder You want
 ```
-cd "Project Folder"/html
+cd Oz_backend_School/"Project Folder"/html
 ```
 3. Run HTML File
 
