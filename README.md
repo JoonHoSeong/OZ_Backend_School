@@ -7,7 +7,11 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-# 🧑‍💻과제
+## 🖥IDEs/Editors
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+# 🧑‍💻과제 
 ## ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)[[Link]](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/Python)
 ### 🔥[챌린지](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/Python/homework)
 | 순서 | 과제 명 | 작성 일자  | 작성 언어  | 

@@ -5,6 +5,21 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+## 🖥IDEs/Editors
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## 🗞실행 방법
+1. Git Repo Clone
+
+```
+git clone https://github.com/JoonHoSeong/OZ_Backend_School.git
+```
+2. Move to HTML Folder You want
+```
+cd HTML+CSS/"HTML Folder"
+```
+3. Run HTML File You want 
+
 ## 🧑‍💻과제
 ### [HTML+CSS](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project)
 ### 🔥챌린지
@@ -27,6 +42,11 @@
 <hr>
 
 ## 🏃강의 실습
+### [Python](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/Python/Trainning)
+| 순서 | 실습 명 | 작성 일자 | 작성 언어  | 
+| --- | --- | --- | --- |
+| 1 | []() | 24.03.2. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+
 ### [HTML+CSS](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning)
 | 순서 | 실습 명 | 작성 일자 | 작성 언어  | 
 | --- | --- | --- | --- |
