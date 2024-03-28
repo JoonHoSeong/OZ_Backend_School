@@ -10,9 +10,9 @@
 
 ## :man_mechanic:구동환경
 ### OS
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)   Ventura구동환경
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0&style=flat)Ventura
 ### Language Version
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)   3.10.14
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&style=flat)3.10.14
 
 ## 🗞실행 방법
 1. Git Repo Clone
