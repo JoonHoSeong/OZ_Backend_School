@@ -57,3 +57,4 @@ cd Oz_backend_School/Python
 | --- | --- | --- | --- |
 | 1 | [코드 블럭](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/codeBlock.ipynb) | 24.03.27. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 2 | [사칙 연산](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/FourBasicOperations.ipynb) | 24.03.27. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 2 | [변수](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/variable.ipynb) | 24.03.27. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
