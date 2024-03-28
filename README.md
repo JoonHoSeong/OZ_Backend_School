@@ -16,7 +16,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 # 🧑‍💻과제 
-## ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)[[Link]](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/Python)
+## [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/Python)
 ### 🔥[챌린지](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/Python/homework)
 | 순서 | 과제 명 | 작성 일자  | 작성 언어  | 
 | --- | --- | --- | --- |
@@ -45,7 +45,7 @@
 | 7 | [CH08](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Ch08_%EA%B0%9C%EB%85%90%ED%99%95%EC%9D%B8%EB%AC%B8%EC%A0%9C%ED%92%80%EA%B8%B0.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | |
 | 8 | [CH05~08(CS)](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Chapter0508_CS_%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | []() |
 
-## ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)[[Link]](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript)
+## [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript)
 ### 🔥[챌린지](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/mini_project)
 | 순서 | 과제 명 | 작성 일자  | 작성 언어  | 
 | --- | --- | --- | --- |
@@ -62,7 +62,7 @@
 
 
 
-### ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)[[Link]](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS)
+### [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS)
 ### 🔥[챌린지](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/mini_project)
 | 순서 | 과제 명 | 작성 일자  | 작성 언어  | 
 | --- | --- | --- | --- |
@@ -83,7 +83,7 @@
 <hr>
 
 ## 🏃강의 실습
-### ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)[[Link]](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/Python/Trainning)
+### [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/Python/Trainning)
 | 순서 | 실습 명 | 작성 일자 | 작성 언어  | 
 | --- | --- | --- | --- |
 | 1 | [코드 블럭](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/codeBlock.ipynb) | 24.03.27. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
@@ -94,7 +94,7 @@
 | 6 | [비교 연산자와 논리 연산자](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/operator.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 
 
-### ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)[[Link]](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/Trainning)
+### [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/Trainning)
 | 순서 | 실습 명 | 작성 일자 | 작성 언어  | 
 | --- | --- | --- | --- |
 | 1 | [02-자바스크립트소개](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/Trainning/html/02-자바스크립트소개.html) | '24.03.24 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
@@ -128,7 +128,7 @@
 | 29 | [29-배열메소드추가](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/Trainning/html/29-배열메소드추가.html) | '24.03.25 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
 
 
-### ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)[[Link]](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning)
+### [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning)
 | 순서 | 실습 명 | 작성 일자 | 작성 언어  | 
 | --- | --- | --- | --- |
 | 1 | [04-HTML기본문법](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/HTML_Trainnig/04-HTML기본문법.html) | '24.03.21 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)|
