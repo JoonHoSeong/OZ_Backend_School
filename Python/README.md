@@ -40,7 +40,7 @@ cd Oz_backend_School/Python
 
 ### 📙[Misson](https://slowprogramer.tistory.com/)
 | 순서 | 포스팅 제목 | 작성 일자 |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | 1 | [값 비교에 왜 is를 쓰면 안될까?](https://slowprogramer.tistory.com/entry/Python-is%EC%97%B0%EC%82%B0%EC%9E%90%EC%99%80-%EC%97%B0%EC%82%B0%EC%9E%90%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90) | 24.03.2. |
 
 ### 🖋[Homework](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/Python/homework)
