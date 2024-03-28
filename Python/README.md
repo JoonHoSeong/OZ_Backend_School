@@ -48,6 +48,7 @@ cd Oz_backend_School/Python
 | 5 | [CH06](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Ch06_%EA%B0%9C%EB%85%90%ED%99%95%EC%9D%B8%EB%AC%B8%EC%A0%9C%ED%92%80%EA%B8%B0.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 6 | [CH07](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Ch07_%EA%B0%9C%EB%85%90%ED%99%95%EC%9D%B8%EB%AC%B8%EC%A0%9C%ED%92%80%EA%B8%B0.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 7 | [CH08](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Ch08_%EA%B0%9C%EB%85%90%ED%99%95%EC%9D%B8%EB%AC%B8%EC%A0%9C%ED%92%80%EA%B8%B0.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 8 | [CH05~08(CS)](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Chapter0508_CS_%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 
 <hr>
 
@@ -57,4 +58,7 @@ cd Oz_backend_School/Python
 | --- | --- | --- | --- |
 | 1 | [코드 블럭](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/codeBlock.ipynb) | 24.03.27. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 2 | [사칙 연산](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/FourBasicOperations.ipynb) | 24.03.27. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| 2 | [변수](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/variable.ipynb) | 24.03.27. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 3 | [프로그래밍의 시작 변수](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/variable.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 4 | [자료형(int, float)](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/intAndFloat.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 5 | [자료형(str, bool)](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/strAndBool.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 6 | [비교 연산자와 논리 연산자](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/operator.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
