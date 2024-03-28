@@ -38,18 +38,22 @@ cd Oz_backend_School/Python
 | --- | --- | --- | --- |
 | 1 | []() | 24.03.2. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 
-### 🖋[Homework](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/Python/homework)
-| 순서 | 과제 명 | 작성 일자 | 작성 언어  | 
+### 📙[Misson](https://slowprogramer.tistory.com/)
+| 순서 | 포스팅 제목 | 작성 일자 | 링크  | 
 | --- | --- | --- | --- |
-| 1 | [CH01](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Ch01_%EA%B0%9C%EB%85%90%ED%99%95%EC%9D%B8%EB%AC%B8%EC%A0%9C%ED%92%80%EA%B8%B0.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| 2 | [CH03](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Ch03_%EA%B0%9C%EB%85%90%ED%99%95%EC%9D%B8%EB%AC%B8%EC%A0%9C%ED%92%80%EA%B8%B0.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| 3 | [CH04](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Ch04_%EA%B0%9C%EB%85%90%ED%99%95%EC%9D%B8%EB%AC%B8%EC%A0%9C%ED%92%80%EA%B8%B0.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| 4 | [CH05](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Ch05_%EA%B0%9C%EB%85%90%ED%99%95%EC%9D%B8%EB%AC%B8%EC%A0%9C%ED%92%80%EA%B8%B0.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| 5 | [CH06](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Ch06_%EA%B0%9C%EB%85%90%ED%99%95%EC%9D%B8%EB%AC%B8%EC%A0%9C%ED%92%80%EA%B8%B0.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| 6 | [CH07](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Ch07_%EA%B0%9C%EB%85%90%ED%99%95%EC%9D%B8%EB%AC%B8%EC%A0%9C%ED%92%80%EA%B8%B0.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| 7 | [CH08](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Ch08_%EA%B0%9C%EB%85%90%ED%99%95%EC%9D%B8%EB%AC%B8%EC%A0%9C%ED%92%80%EA%B8%B0.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| 8 | [CH05~08(CS)](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Chapter0508_CS_%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 1 | [값 비교에 왜 is를 쓰면 안될까?](https://slowprogramer.tistory.com/) | 24.03.2. | [LINK](https://slowprogramer.tistory.com/) |
 
+### 🖋[Homework](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/Python/homework)
+| 순서 | 과제 명 | 작성 일자 | 작성 언어  | 블로그 게시물 |
+| --- | --- | --- | --- | --- |
+| 1 | [CH01](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Ch01_%EA%B0%9C%EB%85%90%ED%99%95%EC%9D%B8%EB%AC%B8%EC%A0%9C%ED%92%80%EA%B8%B0.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | []() |
+| 2 | [CH03](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Ch03_%EA%B0%9C%EB%85%90%ED%99%95%EC%9D%B8%EB%AC%B8%EC%A0%9C%ED%92%80%EA%B8%B0.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | []() |
+| 3 | [CH04](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Ch04_%EA%B0%9C%EB%85%90%ED%99%95%EC%9D%B8%EB%AC%B8%EC%A0%9C%ED%92%80%EA%B8%B0.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | |
+| 4 | [CH05](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Ch05_%EA%B0%9C%EB%85%90%ED%99%95%EC%9D%B8%EB%AC%B8%EC%A0%9C%ED%92%80%EA%B8%B0.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | |
+| 5 | [CH06](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Ch06_%EA%B0%9C%EB%85%90%ED%99%95%EC%9D%B8%EB%AC%B8%EC%A0%9C%ED%92%80%EA%B8%B0.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | |
+| 6 | [CH07](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Ch07_%EA%B0%9C%EB%85%90%ED%99%95%EC%9D%B8%EB%AC%B8%EC%A0%9C%ED%92%80%EA%B8%B0.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | |
+| 7 | [CH08](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Ch08_%EA%B0%9C%EB%85%90%ED%99%95%EC%9D%B8%EB%AC%B8%EC%A0%9C%ED%92%80%EA%B8%B0.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | |
+| 8 | [CH05~08(CS)](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Chapter0508_CS_%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | []() |
 <hr>
 
 ## 🏃강의 실습
