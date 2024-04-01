@@ -73,3 +73,9 @@ cd Oz_backend_School/Python
 | 4 | [자료형(int, float)](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/intAndFloat.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 5 | [자료형(str, bool)](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/strAndBool.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 6 | [비교 연산자와 논리 연산자](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/operator.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+
+| 6 | [입력과 출력](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/inputAndOutput.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 6 | [리스트](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/list.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 6 | [튜플](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/tuple.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 6 | [딕셔너리](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/dict.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 6 | [세트](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/set.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
