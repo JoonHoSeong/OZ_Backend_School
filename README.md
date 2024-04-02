@@ -23,7 +23,9 @@
 | 1 | [사칙연산(Ch04)](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/challenge/Ch04_task(code).ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 2 | [변수, 자료형, 비교연산자와 논리연산자(Ch05~08)](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/challenge/Chapter05to08_task.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 3 | [입출력과 시퀀스 자료형(Ch09~13)](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/challenge/Chapter09to13_task.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| 4 | [조건문과 반복문(Ch14~16)](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/challenge/Chapter14to16_task.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 4 | [조건문과 반복문(Ch14~16)](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/challenge/Chapter14to16_task.ipynb) | 24.04.01. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 5 | [함수와 클래스(Ch17~20)](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/challenge/Chapter17to20_task.ipynb) | 24.04.02. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+
 
 ### 🎆[Mini-Project](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/Python/mini_project)
 | 순서 | 과제 명 | 작성 일자 | 작성 언어  | 
@@ -56,6 +58,11 @@
 | 16 | [CH15](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Ch15_%EA%B0%9C%EB%85%90%ED%99%95%EC%9D%B8%EB%AC%B8%EC%A0%9C%ED%92%80%EA%B8%B0.ipynb) | 24.04.01. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 17 | [CH16](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Ch16_%EA%B0%9C%EB%85%90%ED%99%95%EC%9D%B8%EB%AC%B8%EC%A0%9C%ED%92%80%EA%B8%B0.ipynb) | 24.04.01. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 18 | [CH14~16(CS)](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Chapter1416_%EA%B3%BC%EC%A0%9C(cs).ipynb) | 24.04.01. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 19 | [CH17](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Ch17_%EA%B0%9C%EB%85%90%ED%99%95%EC%9D%B8%EB%AC%B8%EC%A0%9C%ED%92%80%EA%B8%B0.ipynb) | 24.04.02. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 20 | [CH18](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Ch18_%EA%B0%9C%EB%85%90%ED%99%95%EC%9D%B8%EB%AC%B8%EC%A0%9C%ED%92%80%EA%B8%B0.ipynb) | 24.04.02. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 21 | [CH19](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Ch19_%EA%B0%9C%EB%85%90%ED%99%95%EC%9D%B8%EB%AC%B8%EC%A0%9C%ED%92%80%EA%B8%B0.ipynb) | 24.04.02. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 22 | [CH20](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Ch20_%EA%B0%9C%EB%85%90%ED%99%95%EC%9D%B8%EB%AC%B8%EC%A0%9C%ED%92%80%EA%B8%B0.ipynb) | 24.04.02. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 23 | [CH17~20(CS)](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Chapter1720_%EA%B3%BC%EC%A0%9C(cs).ipynb) | 24.04.02. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 
 ## [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript)
 ### 🔥[챌린지](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/mini_project)

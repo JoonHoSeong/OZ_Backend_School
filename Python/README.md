@@ -72,7 +72,7 @@ cd Oz_backend_School/Python
 | 20 | [CH18](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Ch18_%EA%B0%9C%EB%85%90%ED%99%95%EC%9D%B8%EB%AC%B8%EC%A0%9C%ED%92%80%EA%B8%B0.ipynb) | 24.04.02. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 21 | [CH19](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Ch19_%EA%B0%9C%EB%85%90%ED%99%95%EC%9D%B8%EB%AC%B8%EC%A0%9C%ED%92%80%EA%B8%B0.ipynb) | 24.04.02. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 22 | [CH20](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Ch20_%EA%B0%9C%EB%85%90%ED%99%95%EC%9D%B8%EB%AC%B8%EC%A0%9C%ED%92%80%EA%B8%B0.ipynb) | 24.04.02. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| 23 | [CH14~16(CS)](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Chapter1720_%EA%B3%BC%EC%A0%9C(cs).ipynb) | 24.04.02. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 23 | [CH17~20(CS)](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Chapter1720_%EA%B3%BC%EC%A0%9C(cs).ipynb) | 24.04.02. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 
 ## 🏃강의 실습
 ### [Python](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/Python/Trainning)
@@ -92,8 +92,8 @@ cd Oz_backend_School/Python
 | 12 | [조건문](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/if.ipynb) | 24.04.02. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 13 | [반복문(for)](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/for.ipynb) | 24.04.02. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 14 | [반복문(while)](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/while.ipynb) | 24.04.02. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| 15 | [함수](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/function.ipynb) | 24.04.01. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| 16 | [클래스](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/class.ipynb) | 24.04.01. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| 17 | [예외처리](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/exceptionHandle.ipynb) | 24.04.01. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| 18 | [파일I/O](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/fileInputOutput.ipynb) | 24.04.01. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 15 | [함수](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/function.ipynb) | 24.04.02. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 16 | [클래스](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/class.ipynb) | 24.04.02. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 17 | [예외처리](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/exceptionHandle.ipynb) | 24.04.02. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 18 | [파일I/O](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/fileInputOutput.ipynb) | 24.04.02. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 <hr>
