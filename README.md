@@ -35,7 +35,9 @@
 ### 📙[Misson](https://slowprogramer.tistory.com/)
 | 순서 | 포스팅 제목 | 작성 일자 |
 | --- | --- | --- |
-| 1 | [값 비교에 왜 is를 쓰면 안될까?](https://slowprogramer.tistory.com/entry/Python-is%EC%97%B0%EC%82%B0%EC%9E%90%EC%99%80-%EC%97%B0%EC%82%B0%EC%9E%90%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90) | 24.03.2. |
+| 1 | [값 비교에 왜 is를 쓰면 안될까?](https://slowprogramer.tistory.com/entry/Python-is%EC%97%B0%EC%82%B0%EC%9E%90%EC%99%80-%EC%97%B0%EC%82%B0%EC%9E%90%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90) | 24.03.28. |
+| 2 | [파이썬의 변수 저장 방식과 메모리 해제(Garbage Collector)](https://slowprogramer.tistory.com/entry/Python-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%98-%EB%B3%80%EC%88%98-%EC%A0%80%EC%9E%A5-%EB%B0%A9%EC%8B%9D%EA%B3%BC-%EB%A9%94%EB%AA%A8%EB%A6%AC-%ED%95%B4%EC%A0%9CGarbage-Collector) | 24.03.29. |
+
 
 ### 🖋[Homework](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/Python/homework)
 | 순서 | 과제 명 | 작성 일자 | 작성 언어  | 
