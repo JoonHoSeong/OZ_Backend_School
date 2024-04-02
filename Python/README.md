@@ -32,7 +32,8 @@ cd Oz_backend_School/Python
 | --- | --- | --- | --- |
 | 1 | [사칙연산(Ch04)](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/challenge/Ch04_task(code).ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 2 | [변수, 자료형, 비교연산자와 논리연산자(Ch05~08)](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/challenge/Chapter05to08_task.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| 3 | [List, Tuple, Dict, Set(CH09~13)](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/challenge/Chapter09to13_task.ipynb) | 24.04.01. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 3 | [입출력과 시퀀스 자료형(Ch09~13)](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/challenge/Chapter09to13_task.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 4 | [조건문과 반복문(Ch14~16)](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/challenge/Chapter14to16_task.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 
 ### 🎆[Mini-Project](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/Python/mini_project)
 | 순서 | 과제 명 | 작성 일자 | 작성 언어  | 
@@ -61,6 +62,10 @@ cd Oz_backend_School/Python
 | 12 | [CH12](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Ch12_%EA%B0%9C%EB%85%90%ED%99%95%EC%9D%B8%EB%AC%B8%EC%A0%9C%ED%92%80%EA%B8%B0.ipynb) | 24.04.01. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 13 | [CH13](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Ch13_%EA%B0%9C%EB%85%90%ED%99%95%EC%9D%B8%EB%AC%B8%EC%A0%9C%ED%92%80%EA%B8%B0.ipynb) | 24.04.01. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 14 | [CH09~13(CS)](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Chapter0913_CS_%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC.ipynb) | 24.04.01. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 15 | [CH14](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Ch14_%EA%B0%9C%EB%85%90%ED%99%95%EC%9D%B8%EB%AC%B8%EC%A0%9C%ED%92%80%EA%B8%B0.ipynb) | 24.04.01. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 16 | [CH15](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Ch15_%EA%B0%9C%EB%85%90%ED%99%95%EC%9D%B8%EB%AC%B8%EC%A0%9C%ED%92%80%EA%B8%B0.ipynb) | 24.04.01. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 17 | [CH16](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Ch16_%EA%B0%9C%EB%85%90%ED%99%95%EC%9D%B8%EB%AC%B8%EC%A0%9C%ED%92%80%EA%B8%B0.ipynb) | 24.04.01. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 18 | [CH14~16(CS)](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/homework/Chapter1416_%EA%B3%BC%EC%A0%9C(cs).ipynb) | 24.04.01. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 <hr>
 
 ## 🏃강의 실습
@@ -73,9 +78,11 @@ cd Oz_backend_School/Python
 | 4 | [자료형(int, float)](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/intAndFloat.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 5 | [자료형(str, bool)](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/strAndBool.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 6 | [비교 연산자와 논리 연산자](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/operator.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-
-| 6 | [입력과 출력](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/inputAndOutput.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| 6 | [리스트](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/list.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| 6 | [튜플](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/tuple.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| 6 | [딕셔너리](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/dict.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| 6 | [세트](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/set.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 7 | [입력과 출력](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/inputAndOutput.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 8 | [리스트](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/list.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 9 | [튜플](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/tuple.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 10 | [딕셔너리](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/dict.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 11 | [세트](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/set.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 12 | [조건문](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/if.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 13 | [반복문(for)](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/for.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 14 | [반복문(while)](https://github.com/JoonHoSeong/OZ_Backend_School/blob/main/Python/Trainning/while.ipynb) | 24.03.28. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
