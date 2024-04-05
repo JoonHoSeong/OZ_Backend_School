@@ -45,7 +45,7 @@ cd Oz_backend_School/HTML+CSS/"HTML Folder"
 
 <hr>
 
-## 🏃강의 실습
+<!-- ## 🏃강의 실습
 ### [Python](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/Python/Trainning)
 | 순서 | 실습 명 | 작성 일자 | 작성 언어  | 
 | --- | --- | --- | --- |
@@ -91,4 +91,4 @@ cd Oz_backend_School/HTML+CSS/"HTML Folder"
 | 35 | [35-상속과공용키워드](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/35-상속과공용키워드.html) | '24.03.23 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
 | 36 | [36-반응형웹과뷰포트단위](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/36-반응형웹과뷰포트단위.html) | '24.03.23 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
 | 37 | [37-미디어쿼리](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/37-미디어쿼리.html) | '24.03.23 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
-| 38 | [38-플렉스박스](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/38-플렉스박스.html) | '24.03.23 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| 38 | [38-플렉스박스](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/HTML%2BCSS/Trainning/CSS_Trainning/38-플렉스박스.html) | '24.03.23 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | -->
