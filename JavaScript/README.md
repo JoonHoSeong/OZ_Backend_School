@@ -44,7 +44,7 @@ cd Oz_backend_School/"Project Folder"/html
 | 3 | [강아지 정보 페이지 프로젝트](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/mini_project/dog_info_page) | 24.03.26. |  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
 
 
-<hr>
+<!-- <hr>
 
 ## 🏃강의 실습
 ### [JavaScript](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/Trainning)
@@ -78,4 +78,4 @@ cd Oz_backend_School/"Project Folder"/html
 | 26 | [26-객체리터럴](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/Trainning/html/26-객체리터럴.html) | '24.03.25 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
 | 27 | [27-JSON](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/Trainning/html/27-JSON.html) | '24.03.25 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
 | 28 | [28-로컬저장소](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/Trainning/html/28-로컬저장소.html) | '24.03.25 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
-| 29 | [29-배열메소드추가](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/Trainning/html/29-배열메소드추가.html) | '24.03.25 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
+| 29 | [29-배열메소드추가](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/Trainning/html/29-배열메소드추가.html) | '24.03.25 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | -->
