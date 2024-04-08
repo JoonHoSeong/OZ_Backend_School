@@ -1,4 +1,4 @@
-class Bird() :
+class Bird :
     def __init__(self) -> None:
         pass
     
