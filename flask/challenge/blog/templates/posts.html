@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Blog Posts</title>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+</head>
+<body>
+    <h1>Blog Posts</h1>
+
+    <h2>Create a New Post</h2>
+    <form id="postForm">
+        <input type="hidden" id="postId" value="">
+        Title: <input type="text" id="title"><br>
+        Content:<br>
+        <textarea id="content"></textarea><br>
+        <input type="submit" value="Create Post" id="createButton">
+        <input type="button" value="Update Post" id="updateButton" onclick="submitUpdateForm()" style="display: none;">
+    </form>
+
+    <hr>
+
+    <h2>All Posts</h2>
+    <ul id="postsList"></ul>
+
+    <script>
+        let currentEditingId = null; // 현재 편집 중인 게시글의 ID를 추적하는 변수
+
+        function submitCreateForm(e) {
+            e.preventDefault();
+            const title = document.getElementById("title").value;
+            const content = document.getElementById("content").value;
+            createNewPost(title, content);
+        }
+
+        function submitUpdateForm() {
+            const title = document.getElementById("title").value;
+            const content = document.getElementById("content").value;
+            updatePost(currentEditingId, title, content);
+        }
+
+        function createNewPost(title, content) {
+            axios.post('/posts', { title, content })
+                .then(function (response) {
+                    console.log(response);
+                    loadPosts();
+                    resetForm();
+                })
+                .catch(function (error) {
+                    console.error(error);
+                });
+        }
+
+        function updatePost(id, title, content) {
+            axios.put('/posts/' + id, { title, content })
+                .then(function (response) {
+                    console.log(response);
+                    loadPosts();
+                    resetForm();
+                })
+                .catch(function (error) {
+                    console.error(error);
+                });
+        }
+
+        function loadPosts() {
+            // 기존 loadPosts 함수 내용
+        }
+
+        function loadPostForEditing(id) {
+            axios.get('/posts/' + id)
+                .then(function (response) {
+                    const post = response.data;
+                    currentEditingId = post.id;
+                    document.getElementById("title").value = post.title;
+                    document.getElementById("content").value = post.content;
+                    document.getElementById("createButton").style.display = 'none';
+                    document.getElementById("updateButton").style.display = 'inline';
+                })
+                .catch(function (error) {
+                    console.error(error);
+                });
+        }
+
+        function resetForm() {
+            currentEditingId = null;
+            document.getElementById("title").value = '';
+            document.getElementById("content").value = '';
+            document.getElementById("createButton").style.display = 'inline';
+            document.getElementById("updateButton").style.display = 'none';
+        }
+
+        document.getElementById("postForm").addEventListener("submit", submitCreateForm);
+        loadPosts();
+    </script>
+</body>
+</html>
