@@ -4,6 +4,9 @@ import yaml # pip install pyyaml
 from flask_smorest import Api
 from posts_routes import create_posts_blueprint
 from flask import render_template
+from flask_migrate import Migrate
+
+
 
 app = Flask(__name__)
 
@@ -32,4 +35,5 @@ def manage_blog() :
     return render_template('posts.html')
 
 if __name__ == "__main__":
+    
     app.run(debug=True)
