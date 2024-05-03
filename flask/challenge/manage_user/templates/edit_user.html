@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Edit User</title>
+</head>
+<body>
+    <h1>Edit User</h1>
+    <form method="post">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" value="{{ user.name }}">
+        <input type="submit" value="Update">
+    </form>
+    <a href="{{ url_for('index') }}">Back</a>
+</body>
+</html>
