@@ -33,7 +33,7 @@ api.register_blueprint(todo_blp)
 
 @app.route("/")
 def index():
-    return {"message": "Init Page"}, 200
+    return {"message": "Init Page"}, 200 
 
 if __name__ == '__main__':
     app.run(debug=True)
