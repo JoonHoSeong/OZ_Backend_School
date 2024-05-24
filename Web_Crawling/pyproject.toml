@@ -12,6 +12,7 @@ chromedriver-autoinstall = "^1.0"
 requests = "^2.32.2"
 ipykernel = "^6.29.4"
 selenium = "^4.21.0"
+webdriver-manager = "^4.0.1"
 
 
 [build-system]
