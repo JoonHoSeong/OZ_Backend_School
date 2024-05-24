@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "web-crawling"
+version = "0.1.0"
+description = ""
+authors = ["JoonHoSeong <joonho1366@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+beautifulsoup4 = "^4.12.3"
+chromedriver-autoinstall = "^1.0"
+requests = "^2.32.2"
+ipykernel = "^6.29.4"
+selenium = "^4.21.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
