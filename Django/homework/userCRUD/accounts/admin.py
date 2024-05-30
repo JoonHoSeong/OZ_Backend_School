@@ -6,7 +6,7 @@ from .models import User
 @admin.register(User)
 class CustomAdmin(UserAdmin):
     #만들 유저 모델을 사용
-    # model = User
+    model = User
     list_display = ("username", "email", "phone_number", "created_at", "updated_at")
     filedsets = UserAdmin.fieldsets + (
         (None, {'fields' : ('phone_number',)})

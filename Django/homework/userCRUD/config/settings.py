@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     #accounts config를 추가
     'accounts.apps.AccountsConfig',
+    'addresses.apps.AddressesConfig',
 ]
 
 MIDDLEWARE = [
