@@ -22,7 +22,7 @@ driver = webdriver.Chrome(service=service, options=options_)
 
 url = "https://m2.melon.com/index.htm"
 driver.get(url)
-time.sleep(0.5)
+time.sleep(10)
 
 def check_and_pass_event_page() :
     # #이벤트 페이지 넘어가기
@@ -39,7 +39,7 @@ check_and_pass_event_page()
 
 def scroll_down_inf() :
     check_and_pass_event_page()
-    time.sleep(1)
+    time.sleep(2)
     #끝까지 스크롤 하기
     prev_height = -1
     max_scrolls = 100
@@ -52,8 +52,7 @@ def scroll_down_inf() :
             break
         prev_height = new_height
         scroll_count += 1
-    time.sleep(1)
-    check_and_pass_event_page()
+    time.sleep(3)
     
     
 driver.find_element(By.XPATH, '//*[@id="naviMenu"]/nav/ul/li[3]/a').click()#차트 항목 클릭
