@@ -73,3 +73,9 @@ class Logout(APIView) :
     def post(self, request):
         logout(request)
         return Response(status=status.HTTP_200_OK)
+    
+    
+class JWTLogin(APIView): :
+    def post(self, request):
+        username = request.data.get('username')
+        password = request.data.get('password') 
