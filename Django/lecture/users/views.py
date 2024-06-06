@@ -9,6 +9,9 @@ from rest_framework.authentication import TokenAuthentication #사용자 인증
 from rest_framework.permissions import IsAuthenticated #권한 
 from django.contrib.auth import authenticate, login, logout
 from rest_framework import status
+import jwt
+from django.conf import settings
+from config.authentication import JWTAuthentication
 
 # Create your views here.
 
@@ -75,7 +78,29 @@ class Logout(APIView) :
         return Response(status=status.HTTP_200_OK)
     
     
-class JWTLogin(APIView): :
+class JWTLogin(APIView):
     def post(self, request):
         username = request.data.get('username')
-        password = request.data.get('password') 
+        password = request.data.get('password')
+        
+        if not username or not password :
+            raise ParseError()
+        
+        user = authenticate(request=request, username=username, password=password)
+        
+        if user :
+            payload = {"id" : user.id, "username" : user.username}
+            token = jwt.encode(
+                payload=payload, key = settings.SECRET_KEY, algorithm="HS256"
+            )
+            
+            return Response({"token" : token})
+        
+        
+class UserDetailView(APIView):
+    # authentication_classes = [JWTAuthentication]
+    permission_classes = [IsAuthenticated]
+
+    def get(self, request):
+        user = request.user
+        return Response({"id" : user.id, "username" : user.username})

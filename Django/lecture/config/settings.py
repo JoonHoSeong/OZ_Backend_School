@@ -11,6 +11,7 @@ https://docs.djangoproject.com/en/5.0/ref/settings/
 """
 
 from pathlib import Path
+from datetime import timedelta
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -45,7 +46,8 @@ CUSTOM_USER_APPS = [
     'feeds.apps.FeedsConfig',
     'rest_framework',
     'reviews.apps.ReviewsConfig',
-    'rest_framework.authtoken'
+    'rest_framework.authtoken',
+    'rest_framework_simplejwt'
     
 ]
 
@@ -146,6 +148,18 @@ AUTH_USER_MODEL = 'users.User'
 # JWT
 REST_FRAMEWORK = {
     "DEFAULT_AUTHENTICATION_CLASSES": [
-        "config.authentication.JWTAuthentication"  # 커스텀 JWT 인증 클래스 사용
+        "rest_framework_simplejwt.authentication.JWTAuthentication",
+        # "config.authentication.JWTAuthentication"  # 커스텀 JWT 인증 클래스 사용
     ],
 }
+
+SIMPLE_JWT = {
+    "ACCESS_TOKEN_LIFETIME": timedelta(minutes=60),
+    "REFRESH_TOKEN_LIFETIME": timedelta(days=14),
+    "SIGNING_KEY": "SECRET",
+    "ALGORITHM": "HS256",
+    "AUTH_HEADER_TYPES": ("Bearer",),
+}
+
+
+

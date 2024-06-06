@@ -12,6 +12,6 @@ class JWTAuthentication(BaseAuthentication) :
         
         decoded = jwt.decode(token, settings.SECRET_KEY, algorithms=['HS256'])
         user_id = decoded.get('id')
-        user = User.objects.get(user_id=user_id)
+        user = User.objects.get(id=user_id)
         
         return (user, None)
