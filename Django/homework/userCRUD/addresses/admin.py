@@ -1,8 +1,8 @@
 from django.contrib import admin
-from .models import Addresses
+from .models import Address
 
 # Register your models here.
-@admin.register(Addresses)
+@admin.register(Address)
 class AddressAdmin(admin.ModelAdmin):
     list_display = ("user", "street", "city", "state","postal_code", "country")
     list_filter = ("city", "state", "country")

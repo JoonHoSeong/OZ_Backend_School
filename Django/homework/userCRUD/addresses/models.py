@@ -2,7 +2,7 @@ from django.db import models
 from accounts.models import User
 
 # Create your models here.
-class Addresses(models.Model):
+class Address(models.Model):
     user = models.ForeignKey(User, related_name='addresses',on_delete=models.CASCADE)
     street = models.CharField(max_length=255, blank=True, null=True)
     city = models.CharField(max_length=100, blank=True, null=True)
