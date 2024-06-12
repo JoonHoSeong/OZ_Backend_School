@@ -35,5 +35,6 @@ class FeedDetail(APIView):
     def get(self, request, feed_id) :
         feed = self.get_object(feed_id)
         serializer = FeedSerializer(feed)
+        
         return Response(serializer.data)
     
