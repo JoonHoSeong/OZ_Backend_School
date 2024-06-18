@@ -27,22 +27,20 @@ cd Oz_backend_School/"Project Folder"/html
 ```
 3. Run HTML File
 
-## 🧑‍💻과제
-### [JavaScript](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/mini_project)
-### 🔥챌린지
+## [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript)
+### 🔥[챌린지](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/mini_project)
 | 순서 | 과제 명 | 작성 일자  | 작성 언어  | 
 | --- | --- | --- | --- |
 | 1 | [사용자 정보 입력받고 출력하기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/mini_project/get_user_info) | 24.03.24. |  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
 | 2 | [몬스터잡기게임](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/mini_project/monster_game) | 24.03.25. |  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
 | 3 | [회원가입 폼 만들기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/mini_project/join) | 24.03.25. |  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
 
-### 🎆추가 과제
+### 🎆[추가 과제](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/mini_project_)
 | 순서 | 과제 명 | 작성 일자 | 작성 언어  | 
 | --- | --- | --- | --- |
 | 1 | [로또 번호 추첨게임](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/mini_project/lotto) | 24.03.25. |  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
 | 2 | [할일 목록 만들기](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/mini_project/to-do-list) | 24.03.25. |  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
 | 3 | [강아지 정보 페이지 프로젝트](https://github.com/JoonHoSeong/OZ_Backend_School/tree/main/JavaScript/mini_project/dog_info_page) | 24.03.26. |  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
-
 
 <!-- <hr>
 
